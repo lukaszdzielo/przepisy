@@ -1,0 +1,23 @@
+---
+title: Domowy omleto-wrap śniadaniowy
+type: sniadanie
+ebook: Dieta ekspresowa i ekonomiczna wersja jesienno zimowa
+author: Michał Kot
+---
+
+::recipe-ingredients
+
+- Oliwa z oliwek 1 łyżka (10g)
+- Jajko 2 szt. (112g)
+- Tortilla pełnoziarnista 1 szt. (około 60g)
+- Feta (50g)
+- Rukola garść (20g)
+- Pomidor (50g) (lub inne warzywa np. marchewka, pietruszka, użyj tego, co masz na zbyciu)
+
+::
+
+::recipe-preparation
+
+Na rozgrzaną patelnię posmarowaną oliwą wlej rozmieszane jajka, zamocz w nich tortillę i podsmaż wszystko razem chwilę, aby jajka połączyły się z tortillą. Następnie zawiń całość we wrapa, dodaj rukolę, fetę oraz pomidora (lub inne warzywa) do środka.
+
+::
