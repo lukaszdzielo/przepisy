@@ -14,7 +14,17 @@ author: Michał Kot
 - Sałata rzymska, kilka listków
 - Ogórek (20g)
 - Mozzarella (30g)
-- Sos a’la cezar z przepisu na jednogarnkową szybką cieciorkę z warzywami i ryżem
+- Sos a’la cezar
+
+# Sos a’la cezar
+
+(przepis na 2 porcje – użyj 1 z 2 porcji):
+- Skyr naturalny (100g)
+- Sok z cytryny kilka kropli
+- Czosnek 1 mały ząbek (4g)
+- Natka pietruszki kilka gałązek
+- Musztarda (francuska, słoneczna - użyj taką jaką dysponujesz) - 1 łyżka (20g)
+- Sól, pieprz
 
 ::
 
