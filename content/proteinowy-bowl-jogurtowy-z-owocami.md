@@ -1,7 +1,7 @@
 ---
 title: Proteinowy bowl jogurtowy z owocami
 type: sniadanie
-ebook: Dieta wysokobiałkowa 2
+ebook: ["Dieta wysokobiałkowa 2"]
 author: Michał Kot
 ---
 

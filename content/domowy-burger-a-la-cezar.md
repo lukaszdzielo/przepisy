@@ -1,7 +1,7 @@
 ---
 title: Domowy burger a’la cezar
 type: kolacja
-ebook: Dieta ekspresowa i ekonomiczna wersja jesienno zimowa
+ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno zimowa"]
 author: Michał Kot
 ---
 

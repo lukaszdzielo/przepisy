@@ -1,7 +1,7 @@
 ---
 title: Szybka grzanka ze smalczykiem z fasoli i kiszonym ogórkiem
 type: kolacja
-ebook: Dieta ekspresowa i ekonomiczna wersja jesienno zimowa
+ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno zimowa"]
 author: Michał Kot
 ---
 

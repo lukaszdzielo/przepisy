@@ -1,7 +1,7 @@
 ---
 title: Meksykański szybki obiadowy jednogarnkowiec
 type: obiad
-ebook: Dieta ekspresowa i ekonomiczna wersja jesienno zimowa
+ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno zimowa"]
 author: Michał Kot
 ---
 

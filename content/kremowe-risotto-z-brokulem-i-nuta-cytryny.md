@@ -1,7 +1,7 @@
 ---
 title: Kremowe risotto z brokułem i nutą cytryny
 type: obiad
-ebook: Dieta ekspresowa i ekonomiczna wersja jesienno zimowa
+ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno zimowa"]
 author: Michał Kot
 ---
 

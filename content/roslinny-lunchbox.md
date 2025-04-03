@@ -1,7 +1,7 @@
 ---
 title: Roślinny lunchbox
 type: lunch
-ebook: Dieta wysokobiałkowa 2
+ebook: ["Dieta wysokobiałkowa 2"]
 author: Michał Kot
 ---
 

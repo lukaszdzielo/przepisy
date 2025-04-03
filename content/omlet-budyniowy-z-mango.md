@@ -1,7 +1,7 @@
 ---
 title: Omlet budyniowy z mango
 type: sniadanie
-ebook: Dieta wysokobiałkowa 2
+ebook: ["Dieta wysokobiałkowa 2"]
 author: Michał Kot
 ---
 

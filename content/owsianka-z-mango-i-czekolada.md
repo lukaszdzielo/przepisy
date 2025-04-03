@@ -1,7 +1,7 @@
 ---
 title: Owsianka z mango i czekoladą
 type: sniadanie
-ebook: Dieta wysokobiałkowa 2
+ebook: ["Dieta wysokobiałkowa 2"]
 author: Michał Kot
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Penne z łososiem i suszonym pomidorem
 type: lunch
-ebook: Dieta wysokobiałkowa 2
+ebook: ["Dieta wysokobiałkowa 2"]
 author: Michał Kot
 ---
 
