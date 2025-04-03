@@ -1,6 +1,6 @@
 ---
 title: Kremowa jajecznica we włoskim stylu
-type: sniadanie
+categories: sniadanie
 ebook: ["Dieta specjalna"]
 author: Michał Kot
 ---

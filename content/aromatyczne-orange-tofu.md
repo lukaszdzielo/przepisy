@@ -1,6 +1,10 @@
 ---
 title: Aromatyczne orange tofu
-type: kolacja
+time:
+image:
+tags:
+categories: kolacja
+attributes:
 ebook: ["Dieta specjalna"]
 author: Michał Kot
 ---

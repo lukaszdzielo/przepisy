@@ -1,6 +1,6 @@
 ---
 title: Panna cotta z sosem malinowym
-type: deser
+categories: deser
 ebook: ["Szybkie desery"]
 author: Michał Kot
 ---

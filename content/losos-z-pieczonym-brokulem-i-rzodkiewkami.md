@@ -1,6 +1,6 @@
 ---
 title: Łosoś z pieczonym brokułem i rzodkiewkami
-type: lunch
+categories: lunch
 ebook: ["Dieta wysokobiałkowa 2"]
 author: Michał Kot
 ---

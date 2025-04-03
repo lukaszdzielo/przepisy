@@ -1,6 +1,10 @@
 ---
 title: Ciepły tost z indykiem z nutą syropu klonowego
-type: kolacja
+time:
+image:
+tags:
+categories: kolacja
+attributes:
 ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno zimowa"]
 author: Michał Kot
 ---

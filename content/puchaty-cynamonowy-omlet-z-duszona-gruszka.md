@@ -1,6 +1,6 @@
 ---
 title: Puchaty cynamonowy omlet z duszoną gruszką
-type: sniadanie
+categories: sniadanie
 ebook: ["Dieta specjalna"]
 author: Michał Kot
 ---

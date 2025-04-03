@@ -1,6 +1,10 @@
 ---
 title: Delikatne placuszki owsiane z nutą orzechów i dżemu
-type: kolacja
+time:
+image:
+tags:
+categories: kolacja
+attributes:
 ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno zimowa", "Dieta specjalna"]
 author: Michał Kot
 ---

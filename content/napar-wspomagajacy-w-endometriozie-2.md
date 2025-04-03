@@ -1,6 +1,6 @@
 ---
 title: Napar wspomagający w endometriozie 2
-type: napar
+categories: napar
 ebook: ["Napary ziołowe dla kobiet"]
 author: Michał Kot
 ---

@@ -1,6 +1,6 @@
 ---
 title: Domowy burger z orientalnym sosem
-type: obiad
+categories: obiad
 ebook: ["Dieta specjalna"]
 author: Michał Kot
 ---

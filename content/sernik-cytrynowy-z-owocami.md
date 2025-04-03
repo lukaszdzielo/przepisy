@@ -1,6 +1,6 @@
 ---
 title: Sernik cytrynowy z owocami
-type: deser
+categories: deser
 ebook: ["Szybkie desery"]
 author: Michał Kot
 ---

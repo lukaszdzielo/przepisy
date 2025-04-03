@@ -1,6 +1,10 @@
 ---
 title: Bulion warzywny
-type: zupa
+time:
+image:
+tags:
+categories: zupa
+attributes:
 ebook: ["Rozgrzewające zupy wersja jesienno-zimowa"]
 author: Michał Kot
 ---

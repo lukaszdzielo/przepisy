@@ -1,6 +1,6 @@
 ---
 title: Tofu w pomidorowo-kokosowym sosie z aromatycznymi dodatkami
-type: obiad
+categories: obiad
 ebook: ["Dieta specjalna"]
 author: Michał Kot
 ---

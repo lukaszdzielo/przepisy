@@ -1,6 +1,6 @@
 ---
 title: Nocna owsianka tiramisu z orzechami
-type: sniadanie
+categories: sniadanie
 ebook: ["Dieta specjalna"]
 author: Michał Kot
 ---

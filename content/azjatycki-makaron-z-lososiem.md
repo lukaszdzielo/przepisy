@@ -1,6 +1,10 @@
 ---
 title: Azjatycki makaron z łososiem
-type: obiad
+time:
+image:
+tags:
+categories: obiad
+attributes:
 ebook: ["Dieta specjalna"]
 author: Michał Kot
 ---

@@ -1,6 +1,6 @@
 ---
 title: Domowy hummus z kiszonkami
-type: sniadanie
+categories: sniadanie
 ebook: ["Dieta specjalna"]
 author: Michał Kot
 ---

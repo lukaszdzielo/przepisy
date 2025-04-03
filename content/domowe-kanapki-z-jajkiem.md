@@ -1,6 +1,6 @@
 ---
 title: Domowe kanapki z jajkiem
-type: kolacja
+categories: kolacja
 ebook: ["Dieta wysokobiałkowa 2"]
 author: Michał Kot
 ---

@@ -1,6 +1,6 @@
 ---
 title: Krem ziemniaczany z chipsami z obierek i pulpetami z indyka
-type: zupa
+categories: zupa
 ebook: ["Rozgrzewające zupy wersja jesienno-zimowa"]
 author: Michał Kot
 ---

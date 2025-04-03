@@ -1,6 +1,10 @@
 ---
 title: Deser kinder country
-type: deser
+time:
+image:
+tags:
+categories: deser
+attributes:
 ebook: ["Szybkie desery"]
 author: Michał Kot
 ---

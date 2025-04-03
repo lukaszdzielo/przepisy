@@ -1,6 +1,6 @@
 ---
 title: Pieczony bakłażan w sosie pomidorowym z ciecierzycą
-type: obiad
+categories: obiad
 ebook: ["Dieta specjalna"]
 author: Michał Kot
 ---

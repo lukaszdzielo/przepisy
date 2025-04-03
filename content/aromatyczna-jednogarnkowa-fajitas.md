@@ -1,6 +1,10 @@
 ---
 title: Aromatyczna jednogarnkowa Fajitas
-type: obiad
+time:
+image:
+tags:
+categories: obiad
+attributes:
 ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno zimowa"]
 author: Michał Kot
 ---

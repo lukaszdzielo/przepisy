@@ -1,6 +1,10 @@
 ---
 title: Carpaccio z awokado, buraka i pomidora z mozzarellą
-type: kolacja
+time:
+image:
+tags:
+categories: kolacja
+attributes:
 ebook: ["Dieta specjalna"]
 author: Michał Kot
 ---

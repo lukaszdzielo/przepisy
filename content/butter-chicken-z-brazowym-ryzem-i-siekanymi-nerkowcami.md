@@ -1,6 +1,10 @@
 ---
 title: Butter chicken z brązowym ryżem i siekanymi nerkowcami
-type: obiad
+time:
+image:
+tags:
+categories: obiad
+attributes:
 ebook: ["Dieta specjalna"]
 author: Michał Kot
 ---

@@ -1,6 +1,6 @@
 ---
 title: Fileciki z indyka z aromatycznymi dodatkami
-type: lunch
+categories: lunch
 ebook: ["Dieta wysokobiałkowa 2"]
 author: Michał Kot
 ---

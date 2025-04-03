@@ -1,6 +1,6 @@
 ---
 title: Napar wspomagający w zespole napięcia przedmiesiączkowego (PMS)
-type: napar
+categories: napar
 ebook: ["Napary ziołowe dla kobiet"]
 author: Michał Kot
 ---

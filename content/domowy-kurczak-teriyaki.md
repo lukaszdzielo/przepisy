@@ -1,6 +1,6 @@
 ---
 title: Domowy kurczak teriyaki
-type: obiad
+categories: obiad
 ebook: ["Dieta specjalna"]
 author: Michał Kot
 ---

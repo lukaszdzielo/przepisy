@@ -1,6 +1,6 @@
 ---
 title: Superszybki bowl witaminowy
-type: kolacja
+categories: kolacja
 ebook: ["Dieta wysokobiałkowa 2"]
 author: Michał Kot
 ---

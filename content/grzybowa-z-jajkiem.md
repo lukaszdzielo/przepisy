@@ -1,6 +1,6 @@
 ---
 title: Grzybowa z jajkiem
-type: zupa
+categories: zupa
 ebook: ["Rozgrzewające zupy wersja jesienno-zimowa"]
 author: Michał Kot
 ---

@@ -1,6 +1,6 @@
 ---
 title: Korzenny krem z dyni
-type: zupa
+categories: zupa
 ebook: ["Rozgrzewające zupy wersja jesienno-zimowa"]
 author: Michał Kot
 ---

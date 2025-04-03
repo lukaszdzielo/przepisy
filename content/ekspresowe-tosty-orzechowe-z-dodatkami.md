@@ -1,6 +1,6 @@
 ---
 title: Ekspresowe tosty orzechowe z dodatkami
-type: sniadanie
+categories: sniadanie
 ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno zimowa"]
 author: Michał Kot
 ---

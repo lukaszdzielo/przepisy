@@ -6,8 +6,11 @@ export default defineContentConfig({
             source: '*.md',
             type: 'page',
             schema: z.object({
-                tags: z.array(z.string()),
+                time: z.string(),
                 image: z.string(),
+                tags: z.array(z.string()),
+                categories: z.string(),
+                attributes: z.string(),
             })
         })
     }

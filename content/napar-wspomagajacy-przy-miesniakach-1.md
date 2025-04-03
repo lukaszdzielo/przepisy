@@ -1,6 +1,6 @@
 ---
 title: Napar wspomagający przy mięśniakach
-type: napar
+categories: napar
 ebook: ["Napary ziołowe dla kobiet"]
 author: Michał Kot
 ---

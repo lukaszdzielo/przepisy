@@ -1,6 +1,6 @@
 ---
 title: Mega czekoladowe ciastka
-type: deser
+categories: deser
 ebook: ["Szybkie desery"]
 author: Michał Kot
 ---

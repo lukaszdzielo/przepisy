@@ -1,6 +1,6 @@
 ---
 title: Domowy omleto-wrap śniadaniowy
-type: sniadanie
+categories: sniadanie
 ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno zimowa"]
 author: Michał Kot
 ---

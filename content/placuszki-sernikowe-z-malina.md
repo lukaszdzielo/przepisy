@@ -1,6 +1,6 @@
 ---
 title: Placuszki sernikowe z maliną
-type: kolacja
+categories: kolacja
 ebook: ["Dieta specjalna"]
 author: Michał Kot
 ---

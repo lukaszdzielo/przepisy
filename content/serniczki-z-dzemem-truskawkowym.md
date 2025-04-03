@@ -1,6 +1,6 @@
 ---
 title: Serniczki z dżemem truskawkowym
-type: kolacja
+categories: kolacja
 ebook: ["Dieta wysokobiałkowa 2"]
 author: Michał Kot
 ---

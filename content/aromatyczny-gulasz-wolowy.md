@@ -1,6 +1,10 @@
 ---
 title: Aromatyczny gulasz wołowy
-type: lunch
+time:
+image:
+tags:
+categories: lunch
+attributes:
 ebook: ["Dieta wysokobiałkowa 2"]
 author: Michał Kot
 ---

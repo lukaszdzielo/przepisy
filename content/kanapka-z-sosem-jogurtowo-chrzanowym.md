@@ -1,6 +1,6 @@
 ---
 title: Kanapka z sosem jogurtowochrzanowym
-type: kolacja
+categories: kolacja
 ebook: ["Dieta wysokobiałkowa 2"]
 author: Michał Kot
 ---

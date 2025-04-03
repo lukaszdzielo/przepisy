@@ -1,6 +1,6 @@
 ---
 title: Praliny ferrero rocher
-type: deser
+categories: deser
 ebook: ["Szybkie desery"]
 author: Michał Kot
 ---

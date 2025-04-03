@@ -1,6 +1,10 @@
 ---
 title: Antyoksydacyjna malinowa micha z czerwonymi dodatkami
-type: kolacja
+time:
+image:
+tags:
+categories: kolacja
+attributes:
 ebook: ["Dieta specjalna"]
 author: Michał Kot
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gorące aromatyczne curry z siekanymi nerkowcami
-type: obiad
+categories: obiad
 ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno zimowa"]
 author: Michał Kot
 ---

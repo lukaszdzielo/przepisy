@@ -1,6 +1,6 @@
 ---
 title: Przeciwzapalny napar dla kobiet na co dzień 1
-type: napar
+categories: napar
 ebook: ["Napary ziołowe dla kobiet"]
 author: Michał Kot
 ---

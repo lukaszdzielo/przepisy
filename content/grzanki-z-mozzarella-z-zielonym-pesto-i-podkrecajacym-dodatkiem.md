@@ -1,6 +1,6 @@
 ---
 title: Grzanki z mozzarellą z zielonym pesto i podkręcającym dodatkiem
-type: kolacja
+categories: kolacja
 ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno zimowa"]
 author: Michał Kot
 ---

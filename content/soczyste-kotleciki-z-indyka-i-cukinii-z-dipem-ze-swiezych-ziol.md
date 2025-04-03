@@ -1,6 +1,6 @@
 ---
 title: Soczyste kotleciki z indyka i cukinii z dipem ze świeżych ziół
-type: obiad
+categories: obiad
 ebook: ["Dieta specjalna"]
 author: Michał Kot
 ---

@@ -1,6 +1,6 @@
 ---
 title: Proteinowy śniadaniowy koktajl espresso
-type: sniadanie
+categories: sniadanie
 ebook: ["Dieta specjalna"]
 author: Michał Kot
 ---

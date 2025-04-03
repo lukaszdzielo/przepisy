@@ -1,6 +1,6 @@
 ---
 title: Makaron z pesto i łososiem
-type: obiad
+categories: obiad
 ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno zimowa"]
 author: Michał Kot
 ---

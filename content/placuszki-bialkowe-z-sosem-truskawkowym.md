@@ -1,6 +1,6 @@
 ---
 title: Placuszki białkowe z sosem truskawkowym
-type: sniadanie
+categories: sniadanie
 ebook: ["Dieta wysokobiałkowa 2"]
 author: Michał Kot
 ---

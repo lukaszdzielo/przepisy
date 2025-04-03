@@ -1,6 +1,6 @@
 ---
 title: Pierś z kurczaka w sezamie z ziemniaczkami
-type: lunch
+categories: lunch
 ebook: ["Dieta wysokobiałkowa 2"]
 author: Michał Kot
 ---

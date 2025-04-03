@@ -1,6 +1,6 @@
 ---
 title: Wieczorny tonik na układ nerwowy
-type: napar
+categories: napar
 ebook: ["Napary ziołowe dla kobiet"]
 author: Michał Kot
 ---
