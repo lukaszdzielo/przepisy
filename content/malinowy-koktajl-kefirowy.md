@@ -1,6 +1,6 @@
 ---
 title: Malinowy koktajl kefirowy
-categories: sniadanie
+categories: śniadanie
 ebook: ["Dieta wysokobiałkowa 2"]
 author: Michał Kot
 ---

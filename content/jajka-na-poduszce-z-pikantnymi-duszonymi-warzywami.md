@@ -1,6 +1,6 @@
 ---
 title: Jajka na poduszce z pikantnymi, duszonymi warzywami
-categories: sniadanie
+categories: śniadanie
 ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno zimowa"]
 author: Michał Kot
 ---

@@ -1,6 +1,6 @@
 ---
 title: Puszysty omlet orzechowo-jabłkowy z rozmarynowym akcentem
-categories: sniadanie
+categories: śniadanie
 ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno zimowa"]
 author: Michał Kot
 ---

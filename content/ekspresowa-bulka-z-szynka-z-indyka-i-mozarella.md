@@ -1,6 +1,6 @@
 ---
 title: Ekspresowa bułka z szynką z indyka i mozarellą
-categories: sniadanie
+categories: śniadanie
 ebook: ["Dieta wysokobiałkowa 2"]
 author: Michał Kot
 ---

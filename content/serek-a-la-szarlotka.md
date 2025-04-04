@@ -1,6 +1,6 @@
 ---
 title: Serek a’la szarlotka
-categories: sniadanie
+categories: śniadanie
 ebook: ["Dieta specjalna"]
 author: Michał Kot
 ---

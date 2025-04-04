@@ -1,6 +1,6 @@
 ---
 title: Jogurt grecki z ciepłą duszoną śliwką w syropie klonowym i dodatkami
-categories: sniadanie
+categories: śniadanie
 ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno zimowa"]
 author: Michał Kot
 ---

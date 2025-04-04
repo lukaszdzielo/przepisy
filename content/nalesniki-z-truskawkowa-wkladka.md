@@ -1,6 +1,6 @@
 ---
 title: Naleśniki z truskawkową wkładką
-categories: sniadanie
+categories: śniadanie
 ebook: ["Dieta wysokobiałkowa 2"]
 author: Michał Kot
 ---

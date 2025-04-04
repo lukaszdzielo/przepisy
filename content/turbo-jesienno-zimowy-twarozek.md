@@ -1,6 +1,6 @@
 ---
 title: Turbo jesienno-zimowy twarożek
-categories: sniadanie
+categories: śniadanie
 ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno zimowa"]
 author: Michał Kot
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ekspresowy śniadaniowy burger
-categories: sniadanie
+categories: śniadanie
 ebook: ["Dieta specjalna"]
 author: Michał Kot
 ---
