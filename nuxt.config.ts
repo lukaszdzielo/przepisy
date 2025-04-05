@@ -3,7 +3,8 @@ export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
   devtools: { enabled: true },
   app: {
-    baseURL: 'https://lukaszdzielo.github.io/Przepisy/',
+    baseURL: '/Przepisy/',
+    cdnURL: '/Przepisy/'
   },
   modules: [
     '@nuxt/content',
