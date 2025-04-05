@@ -4,10 +4,6 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   app: {
     baseURL: '/Przepisy/',
-    cdnURL: '/Przepisy/'
-  },
-  router: {
-    base: '/Przepisy/',
   },
   modules: [
     '@nuxt/content',
