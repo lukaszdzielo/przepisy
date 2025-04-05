@@ -6,6 +6,9 @@ export default defineNuxtConfig({
     baseURL: '/Przepisy/',
     cdnURL: '/Przepisy/'
   },
+  router: {
+    base: '/Przepisy/',
+  },
   modules: [
     '@nuxt/content',
     '@nuxt/eslint',
