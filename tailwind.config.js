@@ -6,8 +6,8 @@ export default {
         container: {
             center: true,
             padding: {
-				DEFAULT: '16px',
-			},
+                DEFAULT: '16px',
+            },
         },
     },
     plugins: [],
