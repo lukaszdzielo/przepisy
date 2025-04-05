@@ -1,12 +1,14 @@
-# Sample workflow for building and deploying a Nuxt site to GitHub Pages
-#
-# To get started with Nuxt see: https://nuxtjs.org/docs/get-started/installation
-#
 name: Deploy Nuxt site to Pages
 
 on:
   push:
     branches: ["main"]
+
+# DODANO: Wymagane uprawnienia dla GITHUB_TOKEN
+permissions:
+  contents: read     # Potrzebne do pobrania kodu (checkout)
+  pages: write       # Potrzebne do wdrożenia na Pages
+  id-token: write    # Potrzebne do uwierzytelnienia OIDC dla akcji deploy-pages
 
 concurrency:
   group: "pages"
@@ -28,7 +30,7 @@ jobs:
             exit 0
           elif [ -f "${{ github.workspace }}/package.json" ]; then
             echo "manager=npm" >> $GITHUB_OUTPUT
-            echo "command=ci" >> $GITHUB_OUTPUT
+            echo "command=ci" >> $GITHUB_OUTPUT # Użycie 'ci' dla npm jest zazwyczaj szybsze i bezpieczniejsze przy lockfile
             exit 0
           else
             echo "Unable to determine package manager"
@@ -47,23 +49,26 @@ jobs:
           #
           # You may remove this line if you want to manage the configuration yourself.
           static_site_generator: nuxt
-      - name: Restore cache
+      - name: Restore cache # Ten krok jest w Twoim oryginalnym pliku, zostawiam go
         uses: actions/cache@v4
         with:
           path: |
             dist
             .nuxt
-          key: ${{ runner.os }}-nuxt-build-${{ hashFiles('dist') }}
+          key: ${{ runner.os }}-nuxt-build-${{ hashFiles('dist') }}-${{ hashFiles('.nuxt') }} # Poprawiony klucz cache
           restore-keys: |
             ${{ runner.os }}-nuxt-build-
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
       - name: Static HTML export with Nuxt
+        # DODANO SEKCJĘ 'env' TUTAJ:
+        env:
+          VITE_CORRECT_PASSWORD: ${{ vars.VITE_CORRECT_PASSWORD }} # Przekazuje zmienną repozytorium
         run: ${{ steps.detect-package-manager.outputs.manager }} run generate
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dist
+          path: ./dist # Zachowuję './dist' zgodnie z Twoim oryginalnym plikiem
 
   # Deployment job
   deploy:
@@ -72,6 +77,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
+    # Sekcja 'permissions' została przeniesiona na GÓRĘ pliku dla całego workflow
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
