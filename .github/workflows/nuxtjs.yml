@@ -1,7 +1,3 @@
-Oczywiście, oto dostosowany kod przepływu pracy (workflow) YAML, bazujący na tym, który podałeś, z dodaną obsługą zmiennej środowiskowej VITE_CORRECT_PASSWORD i poprawionymi uprawnieniami:
-
-YAML
-
 # https://github.com/actions/deploy-pages#usage
 name: Deploy Nuxt site to GitHub Pages
 
