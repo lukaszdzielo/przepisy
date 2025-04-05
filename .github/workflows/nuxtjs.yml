@@ -1,53 +1,46 @@
-# https://github.com/actions/deploy-pages#usage
-name: Deploy Nuxt site to GitHub Pages
+# Przykład fragmentu pliku .github/workflows/deploy.yml
+name: Deploy to GitHub Pages
 
 on:
-  workflow_dispatch: # Pozwala na ręczne uruchomienie
   push:
-    branches:
-      - main # Uruchamia przy push na gałąź main
+    branches: [ main ] # lub inna gałąź
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3 # Używa wersji v3 zgodnie z Twoim przykładem
-      - name: Enable corepack
-        run: corepack enable
-      - name: Setup Node.js
-        uses: actions/setup-node@v3 # Używa wersji v3 zgodnie z Twoim przykładem
-        with:
-          node-version: "20"
-      # Kroki instalacji i budowania
-      - name: Install dependencies
-        run: npm install # Zakładając użycie npm
-      - name: Build Nuxt for GitHub Pages
-        # DODANO SEKCJĘ 'env' TUTAJ:
-        env:
-          VITE_CORRECT_PASSWORD: ${{ vars.VITE_CORRECT_PASSWORD }} # Przekazanie zmiennej repozytorium
-        run: npx nuxt build --preset github_pages # Używa polecenia build z Twojego przykładu
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1 # Używa wersji v1 zgodnie z Twoim przykładem
-        with:
-          path: ./.output/public # Domyślna ścieżka wyjściowa dla Nuxt 3
-
-  # Deployment job
-  deploy:
-    # Dodano zależność od zadania build
-    needs: build
-    # Udzielenie GITHUB_TOKEN wymaganych uprawnień
-    permissions:
-      contents: read    # DODANO: Potrzebne do pobrania artefaktu przez deploy-pages (choć często domyślne, lepiej jawnie)
-      pages: write      # to deploy to Pages
-      id-token: write   # to verify the deployment originates from an appropriate source
-    # Wdrożenie do środowiska github_pages
-    environment:
-      name: github_pages
+    permissions: # Potrzebne do wdrożenia na GitHub Pages
+      contents: read
+      pages: write
+      id-token: write
+    environment: # Definiuje środowisko dla GitHub Pages
+      name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    # Określenie runnera i kroków wdrożenia
-    runs-on: ubuntu-latest
+
     steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v1 # Używa wersji v1 zgodnie z Twoim przykładem
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18' # lub inna wersja LTS
+
+    - name: Install Dependencies
+      run: npm install
+
+    - name: Build
+      run: npm run build # Vite automatycznie użyje zmiennej środowiskowej
+      env: # Przekazanie zmiennej repozytorium do procesu budowania
+        VITE_CORRECT_PASSWORD: ${{ vars.VITE_CORRECT_PASSWORD }}
+
+    - name: Setup Pages
+      uses: actions/configure-pages@v4
+
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: './dist' # Ścieżka do zbudowanej aplikacji
+
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4
