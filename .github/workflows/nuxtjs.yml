@@ -1,34 +1,48 @@
 # https://github.com/actions/deploy-pages#usage
 name: Deploy to GitHub Pages
+
 on:
   workflow_dispatch:
   push:
     branches:
       - main
+
+# DODANO: Globalne uprawnienia dla całego workflow
+permissions:
+  contents: read     # Potrzebne do checkout'u kodu
+  pages: write       # Potrzebne do wdrożenia na Pages
+  id-token: write    # Potrzebne do uwierzytelnienia OIDC
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - run: corepack enable
-      - uses: actions/setup-node@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Enable corepack
+        run: corepack enable
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: "20"
-      # Pick your own package manager and build script
-      - run: npm install
-      - run: npx nuxt build --preset github_pages
+      # Kroki instalacji i budowania
+      - name: Install dependencies
+        run: npm install # Zakładając użycie npm
+      - name: Build Nuxt for GitHub Pages
+        # DODANO SEKCJĘ 'env' TUTAJ:
+        env:
+          VITE_CORRECT_PASSWORD: ${{ vars.VITE_CORRECT_PASSWORD }} # Przekazanie zmiennej repozytorium
+        run: npx nuxt build --preset github_pages # Używa polecenia build z Twojego przykładu
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./.output/public
+          path: ./.output/public # Domyślna ścieżka wyjściowa dla Nuxt 3
+
   # Deployment job
   deploy:
-    # Add a dependency to the build job
+    # Dodano zależność od zadania build
     needs: build
-    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
-    permissions:
-      pages: write      # to deploy to Pages
-      id-token: write   # to verify the deployment originates from an appropriate source
+    # Sekcja 'permissions' została przeniesiona na poziom globalny (na górę pliku)
     # Deploy to the github_pages environment
     environment:
       name: github_pages
