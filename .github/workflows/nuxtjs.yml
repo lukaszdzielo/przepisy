@@ -1,21 +1,14 @@
-name: Deploy Nuxt site to Pages
-
+name: Deploy to GitHub Pages
 on:
   push:
-    branches: ["main"]
-
-# DODANO: Wymagane uprawnienia dla GITHUB_TOKEN
-permissions:
-  contents: read     # Potrzebne do pobrania kodu (checkout)
-  pages: write       # Potrzebne do wdrożenia na Pages
-  id-token: write    # Potrzebne do uwierzytelnienia OIDC dla akcji deploy-pages
+    branches:
+      - main
 
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  # Build job
   build:
     runs-on: ubuntu-latest
     steps:
@@ -72,11 +65,15 @@ jobs:
 
   # Deployment job
   deploy:
+    needs: build
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build
     # Sekcja 'permissions' została przeniesiona na GÓRĘ pliku dla całego workflow
     steps:
       - name: Deploy to GitHub Pages
