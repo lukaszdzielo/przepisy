@@ -1,16 +1,12 @@
 <template>
-    <button @click="logout" class="print:hidden">Wyloguj</button>
+    <!-- <button @click="logout" class="print:hidden">Wyloguj</button> -->
 
-
-    <div>content</div>
-
-
-    <!-- <NuxtLayout>
+    <NuxtLayout>
         <NuxtPage class="py-4" />
-    </NuxtLayout> -->
+    </NuxtLayout>
 </template>
 
 <script setup>
-const emit = defineEmits(['logout']);
-const logout = () => emit('logout');
+// const emit = defineEmits(['logout']);
+// const logout = () => emit('logout');
 </script>
