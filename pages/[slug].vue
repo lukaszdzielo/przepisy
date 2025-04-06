@@ -9,7 +9,7 @@ const { data: recipe } = await useAsyncData(`${slug}`, () => {
 
 <template>
     <div class="container xl:max-w-screen-lg print:px-12 print:text-xs">
-        <NuxtImg v-if="recipe.img" :src="recipe.img" width="1200" height="600" />
+        <NuxtImg v-if="recipe.imgs?.length" :src="recipe.imgs[0]" width="1200" height="600" />
 
         <ContentRenderer v-if="recipe" :value="recipe" class="grid grid-cols-6 gap-8" />
         <div v-else>Post not found</div>
