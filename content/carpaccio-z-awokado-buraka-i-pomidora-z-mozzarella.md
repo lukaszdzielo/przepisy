@@ -1,16 +1,14 @@
 ---
 title: Carpaccio z awokado, buraka i pomidora z mozzarellą
-time:
-image:
-tags:
-categories: kolacja
-attributes:
+categories: ["kolacja", "sałatka"]
+imgs: ["./carpaccio-z-awokado-buraka-i-pomidora-z-mozzarella-1.jpg", "./carpaccio-z-awokado-buraka-i-pomidora-z-mozzarella-2.jpg"]
 ebook: ["Dieta specjalna"]
-author: Michał Kot
+author: ["Michał Kot"]
+time: 10 minut
+macros: {kcal: 501.2, b: 21.0, t: 36.6, w: 18.7}
 ---
 
 ::recipe-ingredients
-
 - Burak ugotowany w wodzie 1 szt. (120g)
 - Pomidor 1 szt. (120g)
 - Awokado ½ szt. (70g)
@@ -20,11 +18,8 @@ author: Michał Kot
 - Bazylia (świeża) kilka listków
 - Sok z limonki 1 łyżeczka (3g)
 - Sól, pieprz
-
 ::
 
 ::recipe-preparation
-
 Przed przystąpieniem do działania umyj wszystkie owoce i warzywa. Awokado, buraka, pomidora i mozzarellę pokrój w cienkie plasterki. Bazylię porwij w dłoniach. Orzechy lekko przesiekaj. Rozłóż wszystkie warzywa wraz z serem naprzemiennie wokół talerza, polej oliwą z oliwek, dodaj orzechy oraz bazylię. Całość skrop lekko limonką, dopraw solą i świeżo mielonym pieprzem.
-
 ::

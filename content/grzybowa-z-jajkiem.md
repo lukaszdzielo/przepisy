@@ -1,15 +1,17 @@
 ---
 title: Grzybowa z jajkiem
-categories: zupa
+categories: [obiad, kolacja, zupa]
+imgs: ["./grzybowa-z-jajkiem-1.jpg", "./grzybowa-z-jajkiem-2.jpg"]
 ebook: ["Rozgrzewające zupy wersja jesienno-zimowa"]
-author: Michał Kot
+author: ["Michał Kot"]
+time: "20-25 minut"
+macros: {kcal: 489.8, b: 20.3, t: 17.7, w: 69.6}
 ---
 
-[Bulion-warzywny](/bulion-warzywny)
+<!-- [Bulion-warzywny](/bulion-warzywny) -->
+
 
 ::recipe-ingredients
-
-(na 4 porcje)
 - 300g suszonych grzybów
 - 150g pieczarek, pokrojonych w cząstki
 - 1 cebula, pokrojona w kostkę (100g)
@@ -27,11 +29,8 @@ author: Michał Kot
 - Sos sojowy do doprawienia 2 łyżki (20g)
 - Szczypiorek do dekoracji
 - Orzechy włoskie jako dodatek (30g)
-
 ::
 
 ::recipe-preparation
-
 Tofu pokrój w kostkę i zamarynuj w sosie sojowym. Suszone grzyby namocz w ciepłej wodzie przez co najmniej 30 minut, aż zmiękną. Następnie odcedź je i pokrój na kawałki, ale nie wylewaj wody z namaczania ich. W dużym garnku rozgrzej oliwę i podsmaż pieczarki, cebulę oraz czosnek (opcjonalnie dodaj tutaj też papryczkę lub pikantną przyprawę) przez 2-3 minuty. Dodaj pokrojone, namoczone grzyby, bulion, ziemniaki, marchewkę i selera. Gotuj na małym ogniu przez około 20-25 minut, aż warzywa staną się miękkie. Dwiema chochlami gorącej zupy zahartuj jogurt grecki w oddzielnym naczyniu. Gorącą zupę wlewaj powoli, tak by jogurt się nie zważył. Po zahartowaniu dodaj jogurt do zupy i wymieszaj. Dopraw zupę sosem sojowym, solą i pieprzem do smaku. Tofu podsmaż i dodaj do zupy. W międzyczasie w oddzielnym rondelku zagotuj wodę i ugotuj jajka na miękko. Jajka ostudź, obierz i dodawaj do porcji zupy tyle jajka, ile zjesz. Zupę udekoruj posiekanym szczypiorkiem i siekanymi orzechami włoskimi.
-
 ::

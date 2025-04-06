@@ -1,9 +1,9 @@
 ---
 title: Jesienna owsianka z owocami w cynamonie i tartą czekoladą
-categories: ŚNIADANIE
-img: ./jesienna-owsianka-z-owocami-w-cynamonie-i-tarta-czekolada.jpg
-ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno- zimowa"]
-author: Michał Kot
+categories: ["śniadanie"]
+imgs: ["./jesienna-owsianka-z-owocami-w-cynamonie-i-tarta-czekolada-1.jpg"]
+ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa"]
+author: ["Michał Kot"]
 time: 7 minut
 macros: {kcal: 602.8, b: 30.99, t: 19.1, w: 69.5}
 ---
