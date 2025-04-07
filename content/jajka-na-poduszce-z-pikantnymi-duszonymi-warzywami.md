@@ -1,8 +1,8 @@
 ---
 title: Jajka na poduszce z pikantnymi, duszonymi warzywami
-categories: ["śniadanie"]
-imgs: ["./jajka-na-poduszce-z-pikantnymi-duszonymi-warzywami-1.jpg", "./jajka-na-poduszce-z-pikantnymi-duszonymi-warzywami-2.jpg"]
-ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa"]
+categories: [śniadanie]
+imgs: [./jajka-na-poduszce-z-pikantnymi-duszonymi-warzywami-1.jpg, ./jajka-na-poduszce-z-pikantnymi-duszonymi-warzywami-2.jpg]
+ebook: [Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa]
 author: [Michał Kot]
 time: 8 minut
 macros: {kcal: 592.2, b: 29.3, t: 33.4, w: 37.0}

@@ -1,7 +1,7 @@
 ---
 title: Ekspresowa bułka z szynką z indyka i mozarellą
-categories: ["śniadanie"]
-imgs: ["./ekspresowa-bulka-z-szynka-z-indyka-i-mozarella-1.jpg"]
+categories: [śniadanie]
+imgs: [./ekspresowa-bulka-z-szynka-z-indyka-i-mozarella-1.jpg]
 ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]
 time: 7 minut

@@ -1,8 +1,8 @@
 ---
 title: Mega czekoladowe ciastka
-categories: ["deser"]
+categories: [deser]
 imgs: ["./mega-czekoladowe-ciastka-1.jpg", "./mega-czekoladowe-ciastka-2.jpg"]
-ebook: ["Szybkie desery"]
+ebook: [Szybkie desery]
 author: [Michał Kot]
 macros: {kcal: 2427.1, b: 51.2, t: 147.6, w: 218.6}
 ---

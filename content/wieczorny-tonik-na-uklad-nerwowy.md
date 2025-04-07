@@ -1,8 +1,8 @@
 ---
 title: Wieczorny tonik na układ nerwowy
-categories: ["Napar"]
+categories: [Napar]
 imgs: ["./wieczorny-tonik-na-uklad-nerwowy-1.jpg", "./wieczorny-tonik-na-uklad-nerwowy-2.jpg"]
-ebook: ["Napary ziołowe dla kobiet"]
+ebook: [Napary ziołowe dla kobiet]
 author: [Michał Kot]
 ---
 

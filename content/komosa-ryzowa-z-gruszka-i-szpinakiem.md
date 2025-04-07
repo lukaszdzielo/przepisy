@@ -1,8 +1,8 @@
 ---
 title: Komosa ryżowa z gruszką i szpinakiem
-categories: ["drugie śniadanie"]
+categories: [drugie śniadanie]
 imgs: ["./komosa-ryzowa-z-gruszka-i-szpinakiem-1.jpg"]
-ebook: ["Dieta klasyczna"]
+ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 310, b: 8.7, t: 8.3, w: 25.2}
 ---

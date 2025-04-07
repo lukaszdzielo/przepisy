@@ -1,6 +1,6 @@
 ---
 title: Krem z cukinii z halloumi i tostowanym pieczywem
-categories: ["zupa"]
+categories: [zupa]
 imgs: ["./krem-z-cukinii-z-halloumi-i-tostowanym-pieczywem-1.jpg"]
 ebook: [Rozgrzewające zupy wersja jesienno-zimowa]
 author: [Michał Kot]

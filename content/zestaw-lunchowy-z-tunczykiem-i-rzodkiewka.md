@@ -2,7 +2,7 @@
 title: Zestaw lunchowy z tuńczykiem i rzodkiewką
 categories: [drugie sniadanie]
 imgs: ["./zestaw-lunchowy-z-tunczykiem-i-rzodkiewka-1.jpg"]
-ebook: ["Dieta klasyczna"]
+ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 286.3, b: 28.7, t: 13.9, w: 5.1}
 ---

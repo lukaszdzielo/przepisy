@@ -1,6 +1,6 @@
 ---
 title: Omlet budyniowy z mango
-categories: ["śniadanie"]
+categories: [śniadanie]
 imgs: ["./omlet-budyniowy-z-mango-1.jpg"]
 ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]

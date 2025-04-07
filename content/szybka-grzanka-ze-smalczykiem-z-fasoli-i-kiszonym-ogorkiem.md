@@ -2,7 +2,7 @@
 title: Szybka grzanka ze smalczykiem z fasoli i kiszonym ogórkiem
 categories: [kolacja]
 imgs: ["./szybka-grzanka-ze-smalczykiem-z-fasoli-i-kiszonym-ogorkiem-1.jpg", "./szybka-grzanka-ze-smalczykiem-z-fasoli-i-kiszonym-ogorkiem-2.jpg"]
-ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa"]
+ebook: [Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa]
 author: [Michał Kot]
 time: 10 minut
 macros: {kcal: 532.5, b: 19.7, t: 18.8, w: 61.7}

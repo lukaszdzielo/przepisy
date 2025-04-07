@@ -2,7 +2,7 @@
 title: Kurczak z brokułem i kawałkami pomarańczy
 categories: [obiad]
 imgs: ["./kurczak-z-brokulem-i-kawalkami-pomaranczy-1.jpg"]
-ebook: ["Dieta klasyczna"]
+ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 621.6, b: 44.8, t: 13.7, w: 70.9}
 ---

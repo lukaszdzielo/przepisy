@@ -1,6 +1,6 @@
 ---
 title: Naleśniki z truskawkową wkładką
-categories: ["śniadanie"]
+categories: [śniadanie]
 imgs: ["./nalesniki-z-truskawkowa-wkladka-1.jpg"]
 ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]

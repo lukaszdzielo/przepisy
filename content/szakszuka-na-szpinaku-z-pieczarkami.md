@@ -1,8 +1,8 @@
 ---
 title: Szakszuka na szpinaku z pieczarkami
-categories: ["śniadanie"]
+categories: [śniadanie]
 imgs: ["./szakszuka-na-szpinaku-z-pieczarkami-1.jpg"]
-ebook: ["Dieta klasyczna"]
+ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 504.6, b: 29.19, t: 32.7, w: 18.9}
 ---

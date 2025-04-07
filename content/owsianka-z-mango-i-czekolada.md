@@ -1,6 +1,6 @@
 ---
 title: Owsianka z mango i czekoladą
-categories: ["śniadanie"]
+categories: [śniadanie]
 imgs: ["./owsianka-z-mango-i-czekolada-1.jpg"]
 ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]

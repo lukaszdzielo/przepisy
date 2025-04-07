@@ -1,8 +1,8 @@
 ---
 title: Jajecznica z cebulką, pestkami dyni i pomidorem
 categories: [sniadanie]
-imgs: ["./jajecznica-z-cebulka-pestkami-dyni-i-pomidorem-1.jpg"]
-ebook: ["Dieta klasyczna"]
+imgs: [./jajecznica-z-cebulka-pestkami-dyni-i-pomidorem-1.jpg]
+ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 497.4, b: 27, t: 31.7, w: 21.4}
 ---

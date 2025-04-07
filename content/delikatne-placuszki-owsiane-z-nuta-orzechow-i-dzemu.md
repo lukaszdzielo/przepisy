@@ -1,8 +1,8 @@
 ---
 title: Delikatne placuszki owsiane z nutą orzechów i dżemu
 categories: [kolacja]
-imgs: ["./delikatne-placuszki-owsiane-z-nuta-orzechow-i-dzemu-1.jpg","./delikatne-placuszki-owsiane-z-nuta-orzechow-i-dzemu-2.jpg"]
-ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa", "Dieta specjalna"]
+imgs: [./delikatne-placuszki-owsiane-z-nuta-orzechow-i-dzemu-1.jpg,./delikatne-placuszki-owsiane-z-nuta-orzechow-i-dzemu-2.jpg]
+ebook: [Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa, Dieta specjalna]
 author: [Michał Kot]
 time: 12-15 minut
 macros: {kcal: 509.4, b: 16.6, t: 19.6, w: 68.0}

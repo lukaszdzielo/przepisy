@@ -1,6 +1,6 @@
 ---
 title: Proteinowy bowl jogurtowy z owocami
-categories: ["śniadanie"]
+categories: [śniadanie]
 imgs: ["./proteinowy-bowl-jogurtowy-z-owocami-1.jpg"]
 ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]

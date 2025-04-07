@@ -1,8 +1,8 @@
 ---
 title: Domowy burger a’la cezar
 categories: [kolacja]
-imgs: ["./domowy-burger-ala-cezar-1.jpg"]
-ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa"]
+imgs: [./domowy-burger-ala-cezar-1.jpg]
+ebook: [Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa]
 author: [Michał Kot]
 time: 10 minut
 macros: {kcal: 500.0, b: 47.6, t: 12.4, w: 43.7}

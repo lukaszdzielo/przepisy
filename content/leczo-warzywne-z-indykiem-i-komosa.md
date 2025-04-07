@@ -2,7 +2,7 @@
 title: Leczo warzywne z indykiem i komosą
 categories: [obiad]
 imgs: ["./leczo-warzywne-z-indykiem-i-komosa-1.jpg"]
-ebook: ["Dieta klasyczna"]
+ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 591.9, b: 43.6, t: 24.2, w: 44.5}
 ---

@@ -1,6 +1,6 @@
 ---
 title: Krem ziemniaczany z chipsami z obierek
-categories: ["zupa"]
+categories: [zupa]
 imgs: ["./krem-ziemniaczany-z-chipsami-z-obierek-1.jpg"]
 ebook: [Rozgrzewające zupy wersja jesienno-zimowa]
 author: [Michał Kot]

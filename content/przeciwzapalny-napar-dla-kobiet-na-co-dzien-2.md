@@ -1,8 +1,8 @@
 ---
 title: Przeciwzapalny napar dla kobiet na co dzień 2
-categories: ["Napar"]
-imgs: ["./przeciwzapalny-napar-dla-kobiet-na-co-dzien-2-1.jpg", "./przeciwzapalny-napar-dla-kobiet-na-co-dzien-2-2.jpg"]
-ebook: ["Napary ziołowe dla kobiet"]
+categories: [Napar]
+imgs: [./przeciwzapalny-napar-dla-kobiet-na-co-dzien-2-1.jpg, ./przeciwzapalny-napar-dla-kobiet-na-co-dzien-2-2.jpg]
+ebook: [Napary ziołowe dla kobiet]
 author: [Michał Kot]
 ---
 

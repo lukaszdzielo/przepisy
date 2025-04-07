@@ -2,7 +2,7 @@
 title: Mini-omleciki sernikowe z dżemem
 categories: [kolacja]
 imgs: ["./mini-omleciki-sernikowe-z-dzemem-1.jpg", "./mini-omleciki-sernikowe-z-dzemem-2.jpg"]
-ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa"]
+ebook: [Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa]
 author: [Michał Kot]
 time: 10 minut
 macros: {kcal: 527.8, b: 29.4, t: 21.9, w: 59.5}

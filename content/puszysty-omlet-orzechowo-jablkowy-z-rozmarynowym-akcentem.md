@@ -1,8 +1,8 @@
 ---
 title: Puszysty omlet orzechowo-jabłkowy z rozmarynowym akcentem
-categories: ["śniadanie"]
+categories: [śniadanie]
 imgs: ["./puszysty-omlet-orzechowo-jablkowy-z-rozmarynowym-akcentem-1.jpg", "./puszysty-omlet-orzechowo-jablkowy-z-rozmarynowym-akcentem-2.jpg"]
-ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa"]
+ebook: [Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa]
 author: [Michał Kot]
 time: 8 minut
 macros: {kcal: 614.3, b: 25.0, t: 39.7, w: 38.9}

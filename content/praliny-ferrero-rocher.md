@@ -1,8 +1,8 @@
 ---
 title: Praliny ferrero rocher
-categories: ["deser"]
-imgs: ["./praliny-ferrero-rocher-1.jpg", "./praliny-ferrero-rocher-2.jpg"]
-ebook: ["Szybkie desery"]
+categories: [deser]
+imgs: [./praliny-ferrero-rocher-1.jpg, ./praliny-ferrero-rocher-2.jpg]
+ebook: [Szybkie desery]
 author: [Michał Kot]
 macros: {kcal: 189.1, b: 3.8, t: 14.3, w: 10.5}
 ---

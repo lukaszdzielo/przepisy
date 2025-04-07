@@ -2,7 +2,7 @@
 title: Mix sałat z ciecierzycą, papryką i pestkami dyni
 categories: [drugie sniadanie]
 imgs: ["./mix-salat-z-ciecierzyca-papryka-i-pestkami-dyni-1.jpg"]
-ebook: ["Dieta klasyczna"]
+ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 308.3, b: 10.3, t: 17.8, w: 20.6}
 ---

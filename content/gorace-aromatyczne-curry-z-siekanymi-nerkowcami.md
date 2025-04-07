@@ -1,8 +1,8 @@
 ---
 title: Gorące aromatyczne curry z siekanymi nerkowcami
 categories: [obiad]
-imgs: ["./gorace-aromatyczne-curry-z-siekanymi-nerkowcami-1.jpg"]
-ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa"]
+imgs: [./gorace-aromatyczne-curry-z-siekanymi-nerkowcami-1.jpg]
+ebook: [Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa]
 author: [Michał Kot]
 time: 15 minut
 macros: {kcal: 685.3, b: 32.6, t: 33.5, w: 58.1}

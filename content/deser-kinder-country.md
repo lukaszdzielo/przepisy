@@ -1,8 +1,8 @@
 ---
 title: Deser kinder country
-categories: ["deser"]
-imgs: ["./deser-kinder-country-1.jpg", "./deser-kinder-country-2.jpg"]
-ebook: ["Szybkie desery"]
+categories: [deser]
+imgs: [./deser-kinder-country-1.jpg, ./deser-kinder-country-2.jpg]
+ebook: [Szybkie desery]
 author: [Michał Kot]
 macros: {kcal: 382.7, b: 17.6, t: 16.5, w: 40.7}
 ---

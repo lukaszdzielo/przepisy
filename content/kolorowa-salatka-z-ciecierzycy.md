@@ -2,7 +2,7 @@
 title: Kolorowa sałatka z ciecierzycy
 categories: [drugie sniadanie]
 imgs: ["./kolorowa-salatka-z-ciecierzycy-1.jpg"]
-ebook: ["Dieta klasyczna"]
+ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 309, b: 13.6, t: 9.7, w: 32.3}
 ---

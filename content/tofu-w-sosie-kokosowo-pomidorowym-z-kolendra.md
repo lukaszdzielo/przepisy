@@ -2,7 +2,7 @@
 title: Tofu w sosie kokosowo-pomidorowym z kolendrą
 categories: [obiad]
 imgs: ["./tofu-w-sosie-kokosowo-pomidorowym-z-kolendra-1.jpg"]
-ebook: ["Dieta klasyczna"]
+ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 607.1, b: 24.1, t: 43.4, w: 25.5}
 ---

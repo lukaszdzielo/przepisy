@@ -1,8 +1,8 @@
 ---
 title: Zielony szejk ze szpinakiem, kiwi i awokado
-categories: ["drugie śniadanie"]
+categories: [drugie śniadanie]
 imgs: ["./zielony-szejk-ze-szpinakiem-kiwi-i-awokado-1.jpg"]
-ebook: ["Dieta klasyczna"]
+ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 296.7, b: 6.7, t: 22, w: 18.5}
 ---

@@ -1,8 +1,8 @@
 ---
 title: Sałatka z szynką parmeńską i suszonym pomidorem
 categories: [kolacja]
-imgs: ["./salatka-z-szynka-parmenska-i-suszonym-pomidorem-1.jpg"]
-ebook: ["Dieta klasyczna"]
+imgs: [./salatka-z-szynka-parmenska-i-suszonym-pomidorem-1.jpg]
+ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 398.6, b: 19.8, t: 21.5, w: 29.2}
 ---

@@ -2,7 +2,7 @@
 title: Kurczak po tajsku z ryżem i papryką
 categories: [obiad]
 imgs: ["./kurczak-po-tajsku-z-ryzem-i-papryka-1.jpg"]
-ebook: ["Dieta klasyczna"]
+ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 604.8, b: 35.1, t: 26.2, w: 48.4}
 ---

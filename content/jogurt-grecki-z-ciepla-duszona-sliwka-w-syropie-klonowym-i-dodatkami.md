@@ -1,8 +1,8 @@
 ---
 title: Jogurt grecki z ciepłą duszoną śliwką w syropie klonowym i dodatkami
-categories: ["śniadanie"]
-imgs: ["./jogurt-grecki-z-ciepla-duszona-sliwka-w-syropie-klonowym-i-dodatkami-1.jpg", "./jogurt-grecki-z-ciepla-duszona-sliwka-w-syropie-klonowym-i-dodatkami-2.jpg"]
-ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa"]
+categories: [śniadanie]
+imgs: [./jogurt-grecki-z-ciepla-duszona-sliwka-w-syropie-klonowym-i-dodatkami-1.jpg, ./jogurt-grecki-z-ciepla-duszona-sliwka-w-syropie-klonowym-i-dodatkami-2.jpg]
+ebook: [Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa]
 author: [Michał Kot]
 time: 6 minut
 macros: {kcal: 597.2, b: 15.2, t: 37.8, w: 43.9}
