@@ -2,7 +2,7 @@
 title: Proteinowy bowl jogurtowy z owocami
 categories: ["śniadanie"]
 imgs: ["./proteinowy-bowl-jogurtowy-z-owocami-1.jpg"]
-ebook: ["Dieta wysokobiałkowa 2"]
+ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]
 time: 7 minut
 macros: {kcal: 504.5, b: 41.4, t: 12.4, w: 50.7}

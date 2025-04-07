@@ -2,7 +2,7 @@
 title: Omlet budyniowy z mango
 categories: ["śniadanie"]
 imgs: ["./omlet-budyniowy-z-mango-1.jpg"]
-ebook: ["Dieta wysokobiałkowa 2"]
+ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]
 time: 10 minut
 macros: {kcal: 481.5, b: 34.3, t: 20.9, w: 38.1}

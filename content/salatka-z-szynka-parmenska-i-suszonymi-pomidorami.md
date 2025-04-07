@@ -1,6 +1,6 @@
 ---
 title: Sałatka z szynką parmeńską i suszonym pomidorem
-categories: ["kolacja"]
+categories: [kolacja]
 imgs: ["./salatka-z-szynka-parmenska-i-suszonym-pomidorem-1.jpg"]
 ebook: ["Dieta klasyczna"]
 author: [Michał Kot]

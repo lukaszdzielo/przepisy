@@ -1,6 +1,6 @@
 ---
 title: Krewetki w sosie pomidorowym
-categories: ["kolacja"]
+categories: [kolacja]
 imgs: ["./krewetki-w-sosie-pomidorowym-1.jpg"]
 ebook: [Dieta specjalna]
 author: [Michał Kot]

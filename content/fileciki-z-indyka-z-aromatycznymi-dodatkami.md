@@ -2,7 +2,7 @@
 title: Fileciki z indyka z aromatycznymi dodatkami
 categories: ["lunch"]
 imgs: ["./fileciki-z-indyka-z-aromatycznymi-dodatkami-1.jpg", "./fileciki-z-indyka-z-aromatycznymi-dodatkami-2.jpg"]
-ebook: ["Dieta wysokobiałkowa 2"]
+ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]
 time: 20 minut
 macros: {kcal: 395.6, b: 33.1, t: 17.2, w: 25.0}

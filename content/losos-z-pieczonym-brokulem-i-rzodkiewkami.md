@@ -2,7 +2,7 @@
 title: Łosoś z pieczonym brokułem i rzodkiewkami
 categories: ["lunch"]
 imgs: ["./losos-z-pieczonym-brokulem-i-rzodkiewkami-1.jpg"]
-ebook: ["Dieta wysokobiałkowa 2"]
+ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]
 time: 35 minut
 macros: {kcal: 423.6, b: 29.0, t: 22.9, w: 22.7}

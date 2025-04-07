@@ -1,6 +1,6 @@
 ---
 title: Placuszki sernikowe z maliną
-categories: ["kolacja"]
+categories: [kolacja]
 imgs: ["./placuszki-sernikowe-z-malina-1.jpg", "./placuszki-sernikowe-z-malina-2.jpg"]
 ebook: [Dieta specjalna]
 author: [Michał Kot]

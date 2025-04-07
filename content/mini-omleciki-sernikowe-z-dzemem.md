@@ -1,6 +1,6 @@
 ---
 title: Mini-omleciki sernikowe z dżemem
-categories: ["kolacja"]
+categories: [kolacja]
 imgs: ["./mini-omleciki-sernikowe-z-dzemem-1.jpg", "./mini-omleciki-sernikowe-z-dzemem-2.jpg"]
 ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa"]
 author: [Michał Kot]

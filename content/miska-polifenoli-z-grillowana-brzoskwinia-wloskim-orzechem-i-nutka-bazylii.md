@@ -1,6 +1,6 @@
 ---
 title: Miska polifenoli z grillowaną brzoskwinią, włoskim orzechem i nutką bazylii
-categories: ["kolacja"]
+categories: [kolacja]
 imgs: ["./miska-polifenoli-z-grillowana-brzoskwinia-wloskim-orzechem-i-nutka-bazylii-1.jpg"]
 ebook: [Dieta specjalna]
 author: [Michał Kot]

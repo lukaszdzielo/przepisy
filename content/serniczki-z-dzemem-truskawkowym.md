@@ -1,8 +1,8 @@
 ---
 title: Serniczki z dżemem truskawkowym
-categories: ["kolacja"]
+categories: [kolacja]
 imgs: ["./serniczki-z-dzemem-truskawkowym-1.jpg", "./serniczki-z-dzemem-truskawkowym-2.jpg"]
-ebook: ["Dieta wysokobiałkowa 2"]
+ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]
 time: 10 minut
 macros: {kcal: 516.0, b: 36.9, t: 22.5, w: 49.2}
