@@ -7,9 +7,13 @@ author: ["Michał Kot"]
 time: 1 godzina
 ---
 
-<!-- Do każdej z tych zup przyda Ci się bulion warzywny. Jeśli posiadasz rosół, to również się nada. Co prawda można te zupy zrobić na szybko używając po prostu wody, ale uwierz mi, że bulion warzywny nada Twoim zupom głębi. Co najważniejsze, możesz raz zrobić go w większej ilości i po prostu zamrozić, a następnie tylko wyciągać, gdy najdzie Cię ochota na zupę. Zapomniałbym… takiego bulionu możesz użyć do zrobienia risotto czy ulubionego sosu!
 
-Przepisy w tym e-booku będę opierał na bulionie warzywnym. Jeśli nie masz czasu na przygotowanie go i nie zostało Ci rosołu po niedzieli, to możesz śmiało używać wody, tylko pamiętaj, żeby ciut mocniej doprawić zupę. -->
+
+::recipe-contentFullWidth
+Do każdej z tych zup przyda Ci się bulion warzywny. Jeśli posiadasz rosół, to również się nada. Co prawda można te zupy zrobić na szybko używając po prostu wody, ale uwierz mi, że bulion warzywny nada Twoim zupom głębi. Co najważniejsze, możesz raz zrobić go w większej ilości i po prostu zamrozić, a następnie tylko wyciągać, gdy najdzie Cię ochota na zupę. Zapomniałbym… takiego bulionu możesz użyć do zrobienia risotto czy ulubionego sosu!
+
+Przepisy w tym e-booku będę opierał na bulionie warzywnym. Jeśli nie masz czasu na przygotowanie go i nie zostało Ci rosołu po niedzieli, to możesz śmiało używać wody, tylko pamiętaj, żeby ciut mocniej doprawić zupę.
+::
 
 ::recipe-ingredients
 - 3 litry wody

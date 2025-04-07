@@ -7,7 +7,9 @@ author: ["Michał Kot"]
 macros: {kcal: 406.4, b: 19, t: 26.8, w: 18.3}
 ---
 
-<!-- [Bulion-warzywny](/bulion-warzywny) -->
+::recipe-contentFullWidth
+[Bulion-warzywny](/bulion-warzywny)
+::
 
 ::recipe-ingredients
  (na 4 porcje)

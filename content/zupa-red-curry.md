@@ -8,7 +8,9 @@ time: "10-15 minut"
 macros: {kcal: 346.1, b: 12.7, t: 18.4, w: 30.2}
 ---
 
+::recipe-contentFullWidth
 [Bulion-warzywny](/bulion-warzywny)
+::
 
 ::recipe-ingredients
  (na 4 porcje)
