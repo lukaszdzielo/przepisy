@@ -3,8 +3,8 @@ title: Roślinny lunchbox
 categories: ["lunch"]
 imgs: ["./roslinny-lunchbox-1.jpg"]
 ebook: ["Dieta wysokobiałkowa 2"]
-author: ["Michał Kot"]
-time: "20 minut"
+author: [Michał Kot]
+time: 20 minut
 macros: {kcal: 388.5, b: 16.1, t: 19.1, w: 33.6}
 ---
 

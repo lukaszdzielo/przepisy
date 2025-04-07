@@ -1,9 +1,9 @@
 ---
 title: Carpaccio z awokado, buraka i pomidora z mozzarellą
-categories: ["kolacja", "sałatka"]
-imgs: ["./carpaccio-z-awokado-buraka-i-pomidora-z-mozzarella-1.jpg", "./carpaccio-z-awokado-buraka-i-pomidora-z-mozzarella-2.jpg"]
-ebook: ["Dieta specjalna"]
-author: ["Michał Kot"]
+categories: [kolacja, sałatka]
+imgs: [./carpaccio-z-awokado-buraka-i-pomidora-z-mozzarella-1.jpg, ./carpaccio-z-awokado-buraka-i-pomidora-z-mozzarella-2.jpg]
+ebook: [Dieta specjalna]
+author: [Michał Kot]
 time: 10 minut
 macros: {kcal: 501.2, b: 21.0, t: 36.6, w: 18.7}
 ---

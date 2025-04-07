@@ -2,8 +2,8 @@
 title: Kremowa jajecznica we włoskim stylu
 categories: ["śniadanie"]
 imgs: ["./kremowa-jajecznica-we-wloskim-stylu-1.jpg"]
-ebook: ["Dieta specjalna"]
-author: ["Michał Kot"]
+ebook: [Dieta specjalna]
+author: [Michał Kot]
 time: 10 minut
 macros: {kcal: 581.5, b: 34.8, t: 40.1, w: 18.2}
 ---

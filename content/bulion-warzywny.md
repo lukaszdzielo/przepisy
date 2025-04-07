@@ -1,9 +1,9 @@
 ---
 title: Bulion Warzywny
-categories: ['dodatki', 'zupa']
-imgs: ["./bulion-warzywny-1.jpg"]
-ebook: ["Rozgrzewające zupy wersja jesienno-zimowa"]
-author: ["Michał Kot"]
+categories: [dodatki, zupa]
+imgs: [./bulion-warzywny-1.jpg]
+ebook: [Rozgrzewające zupy wersja jesienno-zimowa]
+author: [Michał Kot]
 time: 1 godzina
 ---
 

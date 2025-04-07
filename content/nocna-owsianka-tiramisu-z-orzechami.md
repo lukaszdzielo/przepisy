@@ -2,8 +2,8 @@
 title: Nocna owsianka tiramisu z orzechami
 categories: ["śniadanie"]
 imgs: ["./nocna-owsianka-tiramisu-z-orzechami-1.jpg", "./nocna-owsianka-tiramisu-z-orzechami-2.jpg"]
-ebook: ["Dieta specjalna"]
-author: ["Michał Kot"]
+ebook: [Dieta specjalna]
+author: [Michał Kot]
 time: 10 minut
 macros: {kcal: 592.0, b: 20.6, t: 34.3, w: 44.6}
 ---

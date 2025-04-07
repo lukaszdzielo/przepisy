@@ -2,8 +2,8 @@
 title: Proteinowy śniadaniowy koktajl espresso
 categories: ["śniadanie", "koktajl"]
 imgs: ["./proteinowy-sniadaniowy-koktajl-espresso-1.jpg"]
-ebook: ["Dieta specjalna"]
-author: ["Michał Kot"]
+ebook: [Dieta specjalna]
+author: [Michał Kot]
 time: 4 minuty
 macros: {kcal: 592.1, b: 32.3, t: 22.8, w: 60.8}
 ---

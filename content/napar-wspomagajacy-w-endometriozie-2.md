@@ -3,7 +3,7 @@ title: Napar wspomagający w endometriozie 2
 categories: ["Napar"]
 imgs: ["./napar-wspomagajacy-w-endometriozie-2-1.jpg", "./napar-wspomagajacy-w-endometriozie-2-2.jpg"]
 ebook: ["Napary ziołowe dla kobiet"]
-author: ["Michał Kot"]
+author: [Michał Kot]
 ---
 
 ::recipe-ingredients

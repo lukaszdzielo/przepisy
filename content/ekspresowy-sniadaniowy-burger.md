@@ -2,8 +2,8 @@
 title: Ekspresowy śniadaniowy burger
 categories: ["śniadanie", "burger"]
 imgs: ["./ekspresowy-sniadaniowy-burger-1.jpg"]
-ebook: ["Dieta specjalna"]
-author: ["Michał Kot"]
+ebook: [Dieta specjalna]
+author: [Michał Kot]
 time: 15 minut
 macros: {kcal: 613.4, b: 26.7, t: 38.3, w: 37.5}
 ---

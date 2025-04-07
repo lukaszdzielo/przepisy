@@ -3,8 +3,8 @@ title: Indyk z chrzanowym puree
 categories: ["lunch"]
 imgs: ["./indyk-z-chrzanowym-puree-1.jpg"]
 ebook: ["Dieta wysokobiałkowa 2"]
-author: ["Michał Kot"]
-time: "25 minut"
+author: [Michał Kot]
+time: 25 minut
 macros: {kcal: 396.9, b: 28.6, t: 9.6, w: 47.0}
 ---
 

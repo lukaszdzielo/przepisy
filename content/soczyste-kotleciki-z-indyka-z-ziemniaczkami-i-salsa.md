@@ -1,9 +1,9 @@
 ---
 title: Soczyste kotleciki z indyka z ziemniaczkami i salsą
-categories: ["obiad"]
+categories: [obiad]
 imgs: ["./soczyste-kotleciki-z-indyka-z-ziemniaczkami-i-salsa-1.jpg"]
 ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa"]
-author: ["Michał Kot"]
+author: [Michał Kot]
 time: 15-20 minut
 macros: {kcal: 699.6, b: 47.9, t: 33.3, w: 46.6}
 ---

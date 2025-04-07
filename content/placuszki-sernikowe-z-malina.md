@@ -2,8 +2,8 @@
 title: Placuszki sernikowe z maliną
 categories: ["kolacja"]
 imgs: ["./placuszki-sernikowe-z-malina-1.jpg", "./placuszki-sernikowe-z-malina-2.jpg"]
-ebook: ["Dieta specjalna"]
-author: ["Michał Kot"]
+ebook: [Dieta specjalna]
+author: [Michał Kot]
 time: 12 minut
 macros: {kcal: 524.4, b: 39.6, t: 23.7, w: 35.2}
 ---

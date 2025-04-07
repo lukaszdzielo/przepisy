@@ -2,8 +2,8 @@
 title: Domowy hummus z kiszonkami
 categories: ["śniadanie"]
 imgs: ["./domowy-hummus-z-kiszonkami-1.jpg"]
-ebook: ["Dieta specjalna"]
-author: ["Michał Kot"]
+ebook: [Dieta specjalna]
+author: [Michał Kot]
 time: 12 minut
 macros: {kcal: 620.0, b: 23.5, t: 31.8, w: 46.1}
 ---

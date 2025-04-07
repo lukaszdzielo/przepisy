@@ -3,8 +3,8 @@ title: Ekspresowa bułka z szynką z indyka i mozarellą
 categories: ["śniadanie"]
 imgs: ["./ekspresowa-bulka-z-szynka-z-indyka-i-mozarella-1.jpg"]
 ebook: ["Dieta wysokobiałkowa 2"]
-author: ["Michał Kot"]
-time: "7 minut"
+author: [Michał Kot]
+time: 7 minut
 macros: {kcal: 514.8, b: 33.7, t: 21.4, w: 43.0}
 ---
 

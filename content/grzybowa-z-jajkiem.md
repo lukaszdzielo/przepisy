@@ -2,8 +2,8 @@
 title: Grzybowa z jajkiem
 categories: [obiad, kolacja, zupa]
 imgs: ["./grzybowa-z-jajkiem-1.jpg", "./grzybowa-z-jajkiem-2.jpg"]
-ebook: ["Rozgrzewające zupy wersja jesienno-zimowa"]
-author: ["Michał Kot"]
+ebook: [Rozgrzewające zupy wersja jesienno-zimowa]
+author: [Michał Kot]
 time: "20-25 minut"
 macros: {kcal: 489.8, b: 20.3, t: 17.7, w: 69.6}
 ---

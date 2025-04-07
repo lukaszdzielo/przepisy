@@ -3,7 +3,7 @@ title: Domowy omleto-wrap śniadaniowy
 categories: ["śniadanie"]
 imgs: ["./domowy-omleto-wrap-sniadaniowy-1.jpg", "./domowy-omleto-wrap-sniadaniowy-2.jpg"]
 ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa"]
-author: ["Michał Kot"]
+author: [Michał Kot]
 time: 6 minut
 macros: {kcal: 582.6, b: 28.1, t: 37.9, w: 32.7}
 ---

@@ -3,8 +3,8 @@ title: Domowe kanapki z jajkiem
 categories: ["kolacja"]
 imgs: ["./domowe-kanapki-z-jajkiem-1.jpg"]
 ebook: ["Dieta wysokobiałkowa 2"]
-author: ["Michał Kot"]
-time: "8 minut"
+author: [Michał Kot]
+time: 8 minut
 macros: {kcal: 478.5, b: 30.2, t: 15.4, w: 48.2}
 ---
 

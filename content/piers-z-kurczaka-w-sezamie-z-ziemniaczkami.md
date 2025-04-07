@@ -3,7 +3,7 @@ title: Pierś z kurczaka w sezamie z ziemniaczkami
 categories: ["lunch"]
 imgs: ["./piers-z-kurczaka-w-sezamie-z-ziemniaczkami-1.jpg"]
 ebook: ["Dieta wysokobiałkowa 2"]
-author: ["Michał Kot"]
+author: [Michał Kot]
 time: 25 minut
 macros: {kcal: 396.7, b: 31.8, t: 15.9, w: 29.2}
 ---

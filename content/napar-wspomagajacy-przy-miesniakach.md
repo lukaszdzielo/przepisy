@@ -3,7 +3,7 @@ title: Napar wspomagający przy mięśniakach
 categories: ["Napar"]
 imgs: ["./napar-wspomagajacy-przy-miesniakach-1.jpg", "./napar-wspomagajacy-przy-miesniakach-2.jpg"]
 ebook: ["Napary ziołowe dla kobiet"]
-author: ["Michał Kot"]
+author: [Michał Kot]
 ---
 
 ::recipe-ingredients

@@ -1,9 +1,9 @@
 ---
 title: Aromatyczna jednogarnkowa Fajitas
-categories: ["obiad"]
-imgs: ["./aromatyczna-jednogarnkowa-fajitas-1.jpg", "./aromatyczna-jednogarnkowa-fajitas-2.jpg"]
-ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa"]
-author: ["Michał Kot"]
+categories: [obiad]
+imgs: [./aromatyczna-jednogarnkowa-fajitas-1.jpg, ./aromatyczna-jednogarnkowa-fajitas-2.jpg]
+ebook: [Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa]
+author: [Michał Kot]
 time: 15 minut
 macros: {kcal: 718.2, b: 47.3, t: 29.4, w: 57.3}
 ---

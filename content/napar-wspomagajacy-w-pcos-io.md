@@ -3,7 +3,7 @@ title: Napar wspomagający w PCOS/IO
 categories: ["Napar"]
 imgs: ["./napar-wspomagajacy-w-pcos-io-1.jpg", "./napar-wspomagajacy-w-pcos-io-2.jpg"]
 ebook: ["Napary ziołowe dla kobiet"]
-author: ["Michał Kot"]
+author: [Michał Kot]
 ---
 
 ::recipe-ingredients

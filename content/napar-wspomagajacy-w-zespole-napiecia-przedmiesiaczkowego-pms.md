@@ -3,7 +3,7 @@ title: Napar wspomagający w zespole napięcia przedmiesiączkowego (PMS)
 categories: ["Napar"]
 imgs: ["./napar-wspomagajacy-w-zespole-napiecia-przedmiesiaczkowego-pms-1.jpg", "./napar-wspomagajacy-w-zespole-napiecia-przedmiesiaczkowego-pms-2.jpg"]
 ebook: ["Napary ziołowe dla kobiet"]
-author: ["Michał Kot"]
+author: [Michał Kot]
 ---
 
 ::recipe-ingredients

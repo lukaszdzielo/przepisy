@@ -1,9 +1,9 @@
 ---
 title: Kremowe risotto z brokułem i nutą cytryny
-categories: ["obiad"]
+categories: [obiad]
 imgs: ["./kremowe-risotto-z-brokulem-i-nuta-cytryny-1.jpg", "./kremowe-risotto-z-brokulem-i-nuta-cytryny-2.jpg"]
 ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa"]
-author: ["Michał Kot"]
+author: [Michał Kot]
 time: 15-20 minut
 macros: {kcal: 709.1, b: 23.1, t: 27.1, w: 88.0}
 ---

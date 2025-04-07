@@ -2,8 +2,8 @@
 title: Domowy burger z orientalnym sosem
 categories: ["obiad", "burger"]
 imgs: ["./domowy-burger-z-orientalnym-sosem-1.jpg", "./domowy-burger-z-orientalnym-sosem-2.jpg"]
-ebook: ["Dieta specjalna"]
-author: ["Michał Kot"]
+ebook: [Dieta specjalna]
+author: [Michał Kot]
 time: 15-20 minut
 macros: {kcal: 677.4, b: 38.3, t: 34.9, w: 47.8}
 ---

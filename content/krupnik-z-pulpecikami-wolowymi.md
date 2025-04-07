@@ -2,9 +2,9 @@
 title: Krupnik z pulpecikami wołowymi
 categories: [obiad, kolacja, zupa]
 imgs: ["./krupnik-z-pulpecikami-wolowymi-2.jpg", "./krupnik-z-pulpecikami-wolowymi-1.jpg"]
-ebook: ["Rozgrzewające zupy wersja jesienno-zimowa"]
-author: ["Michał Kot"]
-time: "30 minut"
+ebook: [Rozgrzewające zupy wersja jesienno-zimowa]
+author: [Michał Kot]
+time: 30 minut
 macros: {kcal: 388.1, b: 31.4, t: 8.9, w: 35.6}
 ---
 

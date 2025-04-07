@@ -3,7 +3,7 @@ title: Naleśniki z truskawkową wkładką
 categories: ["śniadanie"]
 imgs: ["./nalesniki-z-truskawkowa-wkladka-1.jpg"]
 ebook: ["Dieta wysokobiałkowa 2"]
-author: ["Michał Kot"]
+author: [Michał Kot]
 time: 15 minut
 macros: {kcal: 479.5, b: 26.0, t: 14.4, w: 41.7}
 ---

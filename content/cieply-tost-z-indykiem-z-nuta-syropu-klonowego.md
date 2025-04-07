@@ -1,9 +1,9 @@
 ---
 title: Ciepły tost z indykiem z nutą syropu klonowego
-categories: ["kolacja"]
-imgs: ["./cieply-tost-z-indykiem-z-nuta-syropu-klonowego-1.jpg", "./cieply-tost-z-indykiem-z-nuta-syropu-klonowego-2.jpg"]
-ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa"]
-author: ["Michał Kot"]
+categories: [kolacja]
+imgs: [./cieply-tost-z-indykiem-z-nuta-syropu-klonowego-1.jpg, ./cieply-tost-z-indykiem-z-nuta-syropu-klonowego-2.jpg]
+ebook: [Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa]
+author: [Michał Kot]
 time: 8 minut
 macros: {kcal: 511.8, b: 32.19, t: 18.4, w: 50.2}
 ---

@@ -1,9 +1,9 @@
 ---
 title: Tofu w pomidorowo-kokosowym sosie z aromatycznymi dodatkami
-categories: ["obiad"]
+categories: [obiad]
 imgs: ["./tofu-w-pomidorowo-kokosowym-sosie-z-aromatycznymi-dodatkami-1.jpg"]
-ebook: ["Dieta specjalna"]
-author: ["Michał Kot"]
+ebook: [Dieta specjalna]
+author: [Michał Kot]
 time: 20 minut
 macros: {kcal: 696.7, b: 23.3, t: 53.1, w: 25.7}
 ---

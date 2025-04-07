@@ -1,9 +1,9 @@
 ---
 title: Aromatyczne orange tofu
-categories: ["kolacja"]
-imgs: ["./aromatyczne-orange-tofu-1.jpg"]
-ebook: ["Dieta specjalna"]
-author: ["Michał Kot"]
+categories: [kolacja]
+imgs: [./aromatyczne-orange-tofu-1.jpg]
+ebook: [Dieta specjalna]
+author: [Michał Kot]
 time: 10 minut
 macros: {kcal: 507.5, b: 11.7, t: 25.3, w: 57.8}
 ---

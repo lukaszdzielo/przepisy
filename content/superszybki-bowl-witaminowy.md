@@ -3,8 +3,8 @@ title: Superszybki bowl witaminowy
 categories: ["kolacja"]
 imgs: ["./superszybki-bowl-witaminowy-1.jpg"]
 ebook: ["Dieta wysokobiałkowa 2"]
-author: ["Michał Kot"]
-time: "10 minut"
+author: [Michał Kot]
+time: 10 minut
 macros: {kcal: 490.3, b: 21.8, t: 38.2, w: 12.4}
 ---
 

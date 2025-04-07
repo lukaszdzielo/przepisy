@@ -1,9 +1,9 @@
 ---
 title: Azjatycki makaron z łososiem
-categories: ["obiad"]
-imgs: ["./azjatycki-makaron-z-lososiem-1.jpg"]
-ebook: ["Dieta specjalna"]
-author: ["Michał Kot"]
+categories: [obiad]
+imgs: [./azjatycki-makaron-z-lososiem-1.jpg]
+ebook: [Dieta specjalna]
+author: [Michał Kot]
 time: 25 minut
 macros: {kcal: 702.0, b: 37.7, t: 39.9, w: 41.8}
 ---

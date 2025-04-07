@@ -3,8 +3,8 @@ title: Penne z łososiem i suszonym pomidorem
 categories: ["lunch"]
 imgs: ["./penne-z-lososiem-i-suszonym-pomidorem-1.jpg", "./penne-z-lososiem-i-suszonym-pomidorem-2.jpg"]
 ebook: ["Dieta wysokobiałkowa 2"]
-author: ["Michał Kot"]
-time: "25 minut"
+author: [Michał Kot]
+time: 25 minut
 macros: {kcal: 413.3, b: 20.0, t: 20.2, w: 36.7}
 ---
 

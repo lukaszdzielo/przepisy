@@ -2,8 +2,8 @@
 title: Krewetki w sosie pomidorowym
 categories: ["kolacja"]
 imgs: ["./krewetki-w-sosie-pomidorowym-1.jpg"]
-ebook: ["Dieta specjalna"]
-author: ["Michał Kot"]
+ebook: [Dieta specjalna]
+author: [Michał Kot]
 time: 20 minut
 macros: {kcal: 499.0, b: 28.0, t: 33.1, w: 18.5}
 ---

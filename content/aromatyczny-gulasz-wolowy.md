@@ -1,10 +1,10 @@
 ---
 title: Aromatyczny gulasz wołowy
-categories: ["lunch"]
-imgs: ["./aromatyczny-gulasz-wolowy-1.jpg"]
-ebook: ["Dieta wysokobiałkowa 2"]
-author: ["Michał Kot"]
-time: "30 minut"
+categories: [lunch]
+imgs: [./aromatyczny-gulasz-wolowy-1.jpg]
+ebook: [Dieta wysokobiałkowa 2]
+author: [Michał Kot]
+time: 30 minut
 macros: {kcal: 403.5, b: 30.0, t: 11.1, w: 41.8}
 ---
 

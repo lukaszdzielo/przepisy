@@ -2,8 +2,8 @@
 title: Serek a’la szarlotka
 categories: ["śniadanie"]
 imgs: ["./serek-ala-szarlotka-1.jpg", "./serek-ala-szarlotka-2.jpg"]
-ebook: ["Dieta specjalna"]
-author: ["Michał Kot"]
+ebook: [Dieta specjalna]
+author: [Michał Kot]
 time: 8 minut
 macros: {kcal: 592.9, b: 26.7, t: 35.1, w: 35.9}
 ---

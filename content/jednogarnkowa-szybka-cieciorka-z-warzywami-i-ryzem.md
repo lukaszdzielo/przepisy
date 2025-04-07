@@ -1,9 +1,9 @@
 ---
 title: Jednogarnkowa szybka cieciorka z warzywami i ryżem
-categories: ["obiad"]
+categories: [obiad]
 imgs: ["./jednogarnkowa-szybka-cieciorka-z-warzywami-i-ryzem-1.jpg", "./jednogarnkowa-szybka-cieciorka-z-warzywami-i-ryzem-2.jpg"]
 ebook: ["Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa"]
-author: ["Michał Kot"]
+author: [Michał Kot]
 time: 15 minut
 macros: {kcal: 706.9, b: 27.4, t: 21.5, w: 84.9}
 ---

@@ -1,9 +1,9 @@
 ---
 title: Butter chicken z brązowym ryżem i siekanymi nerkowcami
-categories: ["obiad"]
-imgs: ["./butter-chicken-z-brazowym-ryzem-i-siekanymi-nerkowcami-1.jpg"]
-ebook: ["Dieta specjalna"]
-author: ["Michał Kot"]
+categories: [obiad]
+imgs: [./butter-chicken-z-brazowym-ryzem-i-siekanymi-nerkowcami-1.jpg]
+ebook: [Dieta specjalna]
+author: [Michał Kot]
 time: 25 minut
 macros: {kcal: 689.2, b: 44.6, t: 30.1, w: 57.0} # Makro dla 1 z 2 porcji
 ---

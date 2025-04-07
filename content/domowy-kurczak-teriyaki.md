@@ -1,9 +1,9 @@
 ---
 title: Domowy kurczak teriyaki
-categories: ["obiad"]
+categories: [obiad]
 imgs: ["./domowy-kurczak-teriyaki-1.jpg"]
-ebook: ["Dieta specjalna"]
-author: ["Michał Kot"]
+ebook: [Dieta specjalna]
+author: [Michał Kot]
 time: 20 minut
 macros: {kcal: 712.8, b: 35.3, t: 24.5, w: 79.2}
 ---
