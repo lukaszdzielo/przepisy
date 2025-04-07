@@ -1,7 +1,7 @@
 ---
 title: Kokosowy szejk malinowo - truskawkowy
 categories: [drugie sniadanie]
-imgs: ["./kokosowy-szejk-malinowo-truskawkowy-1.jpg"]
+imgs: [./kokosowy-szejk-malinowo-truskawkowy-1.jpg]
 ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 304.8, b: 4.4, t: 25.7, w: 6.8}
