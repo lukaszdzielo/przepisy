@@ -1,7 +1,7 @@
 ---
 title: Odżywcza miska z komosą
 categories: [kolacja]
-imgs: [./odzywcza-miska-z-komosa-1.jpg]
+imgs: [/odzywcza-miska-z-komosa-1.jpg]
 ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]
 time: 20 minut

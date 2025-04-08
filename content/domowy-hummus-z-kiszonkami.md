@@ -1,7 +1,7 @@
 ---
 title: Domowy hummus z kiszonkami
 categories: [śniadanie]
-imgs: [./domowy-hummus-z-kiszonkami-1.jpg]
+imgs: [/domowy-hummus-z-kiszonkami-1.jpg]
 ebook: [Dieta specjalna]
 author: [Michał Kot]
 time: 12 minut

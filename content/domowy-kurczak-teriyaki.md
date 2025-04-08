@@ -1,7 +1,7 @@
 ---
 title: Domowy kurczak teriyaki
 categories: [obiad]
-imgs: [./domowy-kurczak-teriyaki-1.jpg]
+imgs: [/domowy-kurczak-teriyaki-1.jpg]
 ebook: [Dieta specjalna]
 author: [Michał Kot]
 time: 20 minut

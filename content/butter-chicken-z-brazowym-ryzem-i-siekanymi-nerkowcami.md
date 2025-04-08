@@ -1,7 +1,7 @@
 ---
 title: Butter chicken z brązowym ryżem i siekanymi nerkowcami
 categories: [obiad]
-imgs: [./butter-chicken-z-brazowym-ryzem-i-siekanymi-nerkowcami-1.jpg]
+imgs: [/butter-chicken-z-brazowym-ryzem-i-siekanymi-nerkowcami-1.jpg]
 ebook: [Dieta specjalna]
 author: [Michał Kot]
 time: 25 minut

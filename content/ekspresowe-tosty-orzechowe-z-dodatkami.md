@@ -1,7 +1,7 @@
 ---
 title: Ekspresowe tosty orzechowe z dodatkami
 categories: [śniadanie]
-imgs: [./ekspresowe-tosty-orzechowe-z-dodatkami-1.jpg, ./ekspresowe-tosty-orzechowe-z-dodatkami-2.jpg]
+imgs: [/ekspresowe-tosty-orzechowe-z-dodatkami-1.jpg, /ekspresowe-tosty-orzechowe-z-dodatkami-2.jpg]
 ebook: [Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa]
 author: [Michał Kot]
 time: 5 minut

@@ -1,7 +1,7 @@
 ---
 title: Placuszki białkowe z sosem truskawkowym
 categories: [śniadanie]
-imgs: [./placuszki-bialkowe-z-sosem-truskawkowym-1.jpg, ./placuszki-bialkowe-z-sosem-truskawkowym-2.jpg]
+imgs: [/placuszki-bialkowe-z-sosem-truskawkowym-1.jpg, /placuszki-bialkowe-z-sosem-truskawkowym-2.jpg]
 ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]
 time: 10 minut

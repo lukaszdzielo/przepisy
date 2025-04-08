@@ -1,7 +1,7 @@
 ---
 title: Gorące aromatyczne curry z siekanymi nerkowcami
 categories: [obiad]
-imgs: [./gorace-aromatyczne-curry-z-siekanymi-nerkowcami-1.jpg]
+imgs: [/gorace-aromatyczne-curry-z-siekanymi-nerkowcami-1.jpg]
 ebook: [Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa]
 author: [Michał Kot]
 time: 15 minut

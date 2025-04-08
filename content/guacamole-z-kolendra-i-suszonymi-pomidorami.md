@@ -1,7 +1,7 @@
 ---
 title: Guacamole z kolendrą i suszonym pomidorem
 categories: [śniadanie]
-imgs: [./guacamole-z-kolendra-i-suszonym-pomidorem-1.jpg, ./guacamole-z-kolendra-i-suszonym-pomidorem-2.jpg]
+imgs: [/guacamole-z-kolendra-i-suszonym-pomidorem-1.jpg, /guacamole-z-kolendra-i-suszonym-pomidorem-2.jpg]
 ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 482.1, b: 11.3, t: 25.7, w: 53.2}

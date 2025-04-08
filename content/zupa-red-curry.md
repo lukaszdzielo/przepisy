@@ -1,7 +1,7 @@
 ---
 title: Zupa red curry
 categories: [obiad, kolacja, zupa]
-imgs: [./zupa-red-curry-1.jpg, ./zupa-red-curry-2.jpg]
+imgs: [/zupa-red-curry-1.jpg, /zupa-red-curry-2.jpg]
 ebook: [Rozgrzewające zupy wersja jesienno-zimowa]
 author: [Michał Kot]
 time: "10-15 minut"

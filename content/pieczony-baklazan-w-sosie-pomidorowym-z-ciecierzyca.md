@@ -1,7 +1,7 @@
 ---
 title: Pieczony bakłażan w sosie pomidorowym z ciecierzycą
 categories: [obiad]
-imgs: [./pieczony-baklazan-w-sosie-pomidorowym-z-ciecierzyca-1.jpg, ./pieczony-baklazan-w-sosie-pomidorowym-z-ciecierzyca-2.jpg]
+imgs: [/pieczony-baklazan-w-sosie-pomidorowym-z-ciecierzyca-1.jpg, /pieczony-baklazan-w-sosie-pomidorowym-z-ciecierzyca-2.jpg]
 ebook: [Dieta specjalna]
 author: [Michał Kot]
 time: 35-40 minut

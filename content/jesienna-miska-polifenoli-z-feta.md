@@ -1,7 +1,7 @@
 ---
 title: Jesienna miska polifenoli z fetą
 categories: [kolacja]
-imgs: [./jesienna-miska-polifenoli-z-feta-1.jpg]
+imgs: [/jesienna-miska-polifenoli-z-feta-1.jpg]
 ebook: [Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa]
 author: [Michał Kot]
 time: 7 minut

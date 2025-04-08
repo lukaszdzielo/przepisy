@@ -1,7 +1,7 @@
 ---
 title: Proteinowy śniadaniowy koktajl espresso
 categories: [śniadanie, koktajl]
-imgs: [./proteinowy-sniadaniowy-koktajl-espresso-1.jpg]
+imgs: [/proteinowy-sniadaniowy-koktajl-espresso-1.jpg]
 ebook: [Dieta specjalna]
 author: [Michał Kot]
 time: 4 minuty

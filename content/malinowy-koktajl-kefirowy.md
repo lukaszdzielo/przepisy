@@ -1,7 +1,7 @@
 ---
 title: Malinowy koktajl kefirowy
 categories: [śniadanie, koktajl]
-imgs: [./malinowy-koktajl-kefirowy-1.jpg]
+imgs: [/malinowy-koktajl-kefirowy-1.jpg]
 ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]
 time: 5 minut
