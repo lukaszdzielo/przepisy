@@ -14,6 +14,7 @@ export default defineNuxtConfig({
     '@nuxtjs/tailwindcss'
   ],
   image: {
-    format: ['webp']
+    format: ['webp'],
+    provider: 'ipx',
   },
 })
