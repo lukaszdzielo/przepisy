@@ -1,7 +1,7 @@
 ---
 title: Kasza gryczana z warzywami i czarnuszką
 categories: [obiad]
-imgs: [/imgRecipes/kasza-gryczana-z-warzywami-i-czarnuszka-1.jpg]
+imgs: [./imgRecipes/kasza-gryczana-z-warzywami-i-czarnuszka-1.jpg]
 ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 602.9, b: 20, t: 26, w: 62.9}

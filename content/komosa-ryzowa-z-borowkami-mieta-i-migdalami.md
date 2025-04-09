@@ -1,7 +1,7 @@
 ---
 title: Komosa ryżowa z borówkami, miętą i migdałami
 categories: [kolacja]
-imgs: [/imgRecipes/komosa-ryzowa-z-borowkami-mieta-i-migdalami-1.jpg]
+imgs: [./imgRecipes/komosa-ryzowa-z-borowkami-mieta-i-migdalami-1.jpg]
 ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 398.3, b: 13.7, t: 13.4, w: 55.3}

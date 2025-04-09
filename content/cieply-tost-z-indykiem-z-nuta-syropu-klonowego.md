@@ -1,7 +1,7 @@
 ---
 title: Ciepły tost z indykiem z nutą syropu klonowego
 categories: [kolacja]
-imgs: [/imgRecipes/cieply-tost-z-indykiem-z-nuta-syropu-klonowego-1.jpg, /imgRecipes/cieply-tost-z-indykiem-z-nuta-syropu-klonowego-2.jpg]
+imgs: [./imgRecipes/cieply-tost-z-indykiem-z-nuta-syropu-klonowego-1.jpg, ./imgRecipes/cieply-tost-z-indykiem-z-nuta-syropu-klonowego-2.jpg]
 ebook: [Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa]
 author: [Michał Kot]
 time: 8 minut

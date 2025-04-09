@@ -1,7 +1,7 @@
 ---
 title: Indyk z chrzanowym puree
 categories: [lunch]
-imgs: [/imgRecipes/indyk-z-chrzanowym-puree-1.jpg]
+imgs: [./imgRecipes/indyk-z-chrzanowym-puree-1.jpg]
 ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]
 time: 25 minut

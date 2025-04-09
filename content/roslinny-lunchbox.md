@@ -1,7 +1,7 @@
 ---
 title: Roślinny lunchbox
 categories: [lunch]
-imgs: [/imgRecipes/roslinny-lunchbox-1.jpg]
+imgs: [./imgRecipes/roslinny-lunchbox-1.jpg]
 ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]
 time: 20 minut

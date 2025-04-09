@@ -1,7 +1,7 @@
 ---
 title: Sałatka z awokado, łososiem i granatem
 categories: [sniadanie]
-imgs: [/imgRecipes/salatka-z-awokado-lososiem-i-granatem-1.jpg]
+imgs: [./imgRecipes/salatka-z-awokado-lososiem-i-granatem-1.jpg]
 ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 503.7, b: 18.6, t: 37.5, w: 19.2}

@@ -1,7 +1,7 @@
 ---
 title: Aromatyczne orange tofu
 categories: [kolacja]
-imgs: [/imgRecipes/aromatyczne-orange-tofu-1.jpg]
+imgs: [./imgRecipes/aromatyczne-orange-tofu-1.jpg]
 ebook: [Dieta specjalna]
 author: [Michał Kot]
 time: 10 minut

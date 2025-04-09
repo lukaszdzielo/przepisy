@@ -1,7 +1,7 @@
 ---
 title: Ekspresowy śniadaniowy burger
 categories: [śniadanie, burger]
-imgs: [/imgRecipes/ekspresowy-sniadaniowy-burger-1.jpg]
+imgs: [./imgRecipes/ekspresowy-sniadaniowy-burger-1.jpg]
 ebook: [Dieta specjalna]
 author: [Michał Kot]
 time: 15 minut

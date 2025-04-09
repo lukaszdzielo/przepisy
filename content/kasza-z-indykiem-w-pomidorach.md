@@ -1,7 +1,7 @@
 ---
 title: Kasza z indykiem w pomidorach
 categories: [obiad]
-imgs: [/imgRecipes/kasza-z-indykiem-w-pomidorach-1.jpg]
+imgs: [./imgRecipes/kasza-z-indykiem-w-pomidorach-1.jpg]
 ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 589.6, b: 41.7, t: 18.8, w: 58.7}

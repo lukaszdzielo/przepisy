@@ -1,7 +1,7 @@
 ---
 title: Kanapka z sosem jogurtowo-chrzanowym
 categories: [kolacja]
-imgs: [/imgRecipes/kanapka-z-sosem-jogurtowo-chrzanowym-1.jpg]
+imgs: [./imgRecipes/kanapka-z-sosem-jogurtowo-chrzanowym-1.jpg]
 ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]
 time: 8 minut

@@ -1,7 +1,7 @@
 ---
 title: Fileciki z indyka z aromatycznymi dodatkami
 categories: [lunch]
-imgs: [/imgRecipes/fileciki-z-indyka-z-aromatycznymi-dodatkami-1.jpg, /imgRecipes/fileciki-z-indyka-z-aromatycznymi-dodatkami-2.jpg]
+imgs: [./imgRecipes/fileciki-z-indyka-z-aromatycznymi-dodatkami-1.jpg, ./imgRecipes/fileciki-z-indyka-z-aromatycznymi-dodatkami-2.jpg]
 ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]
 time: 20 minut
