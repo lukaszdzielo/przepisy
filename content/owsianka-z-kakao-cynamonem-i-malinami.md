@@ -1,7 +1,7 @@
 ---
 title: Owsianka z kakao, cynamonem i malinami
 categories: [sniadanie]
-imgs: ["./owsianka-z-kakao-cynamonem-i-malinami-1.jpg"]
+imgs: ["/imgRecipes/owsianka-z-kakao-cynamonem-i-malinami-1.jpg"]
 ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 507.5, b: 17, t: 19.8, w: 61.9}

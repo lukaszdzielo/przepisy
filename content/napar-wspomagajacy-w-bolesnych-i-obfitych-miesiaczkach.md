@@ -1,7 +1,7 @@
 ---
 title: Napar wspomagający w bolesnych i obfitych miesiączkach
 categories: [Napar]
-imgs: ["./napar-wspomagajacy-w-bolesnych-i-obfitych-miesiaczkach-1.jpg", "./napar-wspomagajacy-w-bolesnych-i-obfitych-miesiaczkach-2.jpg"]
+imgs: ["/imgRecipes/napar-wspomagajacy-w-bolesnych-i-obfitych-miesiaczkach-1.jpg", "./napar-wspomagajacy-w-bolesnych-i-obfitych-miesiaczkach-2.jpg"]
 ebook: [Napary ziołowe dla kobiet]
 author: [Michał Kot]
 ---

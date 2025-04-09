@@ -1,7 +1,7 @@
 ---
 title: Panna cotta z sosem malinowym
 categories: [deser]
-imgs: ["./panna-cotta-z-sosem-malinowym-2.jpg", "./panna-cotta-z-sosem-malinowym-1.jpg"]
+imgs: ["/imgRecipes/panna-cotta-z-sosem-malinowym-2.jpg", "./panna-cotta-z-sosem-malinowym-1.jpg"]
 ebook: [Szybkie desery]
 author: [Michał Kot]
 macros: {kcal: 301.0, b: 13.1, t: 16.3, w: 22.4}

@@ -1,7 +1,7 @@
 ---
 title: Sałatka z gruszką, orzechami i szynką parmeńską
 categories: [sniadanie]
-imgs: ["./salatka-z-gruszka-orzechami-i-szynka-parmenska-1.jpg"]
+imgs: ["/imgRecipes/salatka-z-gruszka-orzechami-i-szynka-parmenska-1.jpg"]
 ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 500.6, b: 15.8, t: 37.3, w: 22.6}

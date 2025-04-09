@@ -1,7 +1,7 @@
 ---
 title: Puchaty cynamonowy omlet z duszoną gruszką
 categories: [śniadanie]
-imgs: ["./puchaty-cynamonowy-omlet-z-duszona-gruszka-1.jpg"]
+imgs: ["/imgRecipes/puchaty-cynamonowy-omlet-z-duszona-gruszka-1.jpg"]
 ebook: [Dieta specjalna]
 author: [Michał Kot]
 time: 8-10 minut

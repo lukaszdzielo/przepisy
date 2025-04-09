@@ -1,7 +1,7 @@
 ---
 title: Makaron z pesto i łososiem
 categories: [obiad]
-imgs: ["./makaron-z-pesto-i-lososiem-2.jpg", "./makaron-z-pesto-i-lososiem-1.jpg"]
+imgs: ["/imgRecipes/makaron-z-pesto-i-lososiem-2.jpg", "./makaron-z-pesto-i-lososiem-1.jpg"]
 ebook: [Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa]
 author: [Michał Kot]
 time: 15 minut

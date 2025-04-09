@@ -1,7 +1,7 @@
 ---
 title: Krem ziemniaczany z chipsami z obierek
 categories: [zupa]
-imgs: ["./krem-ziemniaczany-z-chipsami-z-obierek-1.jpg"]
+imgs: ["/imgRecipes/krem-ziemniaczany-z-chipsami-z-obierek-1.jpg"]
 ebook: [Rozgrzewające zupy wersja jesienno-zimowa]
 author: [Michał Kot]
 macros: {kcal: 343, b: 30.1, t: 12.3, w: 23.6}

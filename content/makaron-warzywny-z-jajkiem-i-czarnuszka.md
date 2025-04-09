@@ -1,7 +1,7 @@
 ---
 title: Makaron warzywny z jajkiem i czarnuszką
 categories: [kolacja]
-imgs: ["./makaron-warzywny-z-jajkiem-i-czarnuszka-1.jpg"]
+imgs: ["/imgRecipes/makaron-warzywny-z-jajkiem-i-czarnuszka-1.jpg"]
 ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 411, b: 17.8, t: 32.2, w: 7.4}

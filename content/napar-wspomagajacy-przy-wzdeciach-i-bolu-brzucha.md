@@ -1,7 +1,7 @@
 ---
 title: Napar wspomagający przy wzdęciach i bólu brzucha
 categories: [Napar]
-imgs: ["./napar-wspomagajacy-przy-wzdeciach-i-bolu-brzucha-1.jpg", "./napar-wspomagajacy-przy-wzdeciach-i-bolu-brzucha-2.jpg"]
+imgs: ["/imgRecipes/napar-wspomagajacy-przy-wzdeciach-i-bolu-brzucha-1.jpg", "./napar-wspomagajacy-przy-wzdeciach-i-bolu-brzucha-2.jpg"]
 ebook: [Napary ziołowe dla kobiet]
 author: [Michał Kot]
 ---

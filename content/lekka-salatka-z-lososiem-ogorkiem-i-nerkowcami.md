@@ -1,7 +1,7 @@
 ---
 title: Lekka sałatka z łososiem, ogórkiem i nerkowcami
 categories: [kolacja]
-imgs: ["./lekka-salatka-z-lososiem-ogorkiem-i-nerkowcami-1.jpg"]
+imgs: ["/imgRecipes/lekka-salatka-z-lososiem-ogorkiem-i-nerkowcami-1.jpg"]
 ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 397.3, b: 19.2, t: 24.7, w: 23.3}

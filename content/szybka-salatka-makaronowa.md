@@ -1,7 +1,7 @@
 ---
 title: Szybka sałatka makaronowa
 categories: [kolacja]
-imgs: ["./szybka-salatka-makaronowa-1.jpg", "./szybka-salatka-makaronowa-2.jpg"]
+imgs: ["/imgRecipes/szybka-salatka-makaronowa-1.jpg", "./szybka-salatka-makaronowa-2.jpg"]
 ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]
 time: 20 minut

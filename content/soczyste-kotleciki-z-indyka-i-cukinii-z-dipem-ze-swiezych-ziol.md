@@ -1,7 +1,7 @@
 ---
 title: Soczyste kotleciki z indyka i cukinii z dipem ze świeżych ziół
 categories: [obiad]
-imgs: ["./soczyste-kotleciki-z-indyka-i-cukinii-z-dipem-ze-swiezych-ziol-1.jpg", "./soczyste-kotleciki-z-indyka-i-cukinii-z-dipem-ze-swiezych-ziol-2.jpg"]
+imgs: ["/imgRecipes/soczyste-kotleciki-z-indyka-i-cukinii-z-dipem-ze-swiezych-ziol-1.jpg", "./soczyste-kotleciki-z-indyka-i-cukinii-z-dipem-ze-swiezych-ziol-2.jpg"]
 ebook: [Dieta specjalna]
 author: [Michał Kot]
 time: 30 minut
