@@ -1,7 +1,7 @@
 ---
 title: Biały krem z kalafiora i pietruszki
 categories: [kolacja]
-imgs: [/bialy-krem-z-kalafiora-i-pietruszki-1.jpg]
+imgs: [/imgRecipes/bialy-krem-z-kalafiora-i-pietruszki-1.jpg]
 ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 399.3, b: 13.7, t: 16.3, w: 40.1}

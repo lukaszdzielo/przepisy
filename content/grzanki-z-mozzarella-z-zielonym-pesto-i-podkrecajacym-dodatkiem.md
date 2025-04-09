@@ -1,7 +1,7 @@
 ---
 title: Grzanki z mozzarellą z zielonym pesto i podkręcającym dodatkiem
 categories: [kolacja]
-imgs: [/grzanki-z-mozzarella-z-zielonym-pesto-i-podkrecajacym-dodatkiem-1.jpg, /grzanki-z-mozzarella-z-zielonym-pesto-i-podkrecajacym-dodatkiem-2.jpg]
+imgs: [/imgRecipes/grzanki-z-mozzarella-z-zielonym-pesto-i-podkrecajacym-dodatkiem-1.jpg, /imgRecipes/grzanki-z-mozzarella-z-zielonym-pesto-i-podkrecajacym-dodatkiem-2.jpg]
 ebook: [Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa]
 author: [Michał Kot]
 time: 8 minut

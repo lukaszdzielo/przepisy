@@ -1,7 +1,7 @@
 ---
 title: Grzanki z pomidorem, rukolą i szynką parmeńską
 categories: [kolacja]
-imgs: [/grzanki-z-pomidorem-rukola-i-szynka-parmenska-1.jpg, /grzanki-z-pomidorem-rukola-i-szynka-parmenska-2.jpg]
+imgs: [/imgRecipes/grzanki-z-pomidorem-rukola-i-szynka-parmenska-1.jpg, /imgRecipes/grzanki-z-pomidorem-rukola-i-szynka-parmenska-2.jpg]
 ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 398.3, b: 14.7, t: 22, w: 30.5}

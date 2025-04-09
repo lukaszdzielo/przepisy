@@ -1,7 +1,7 @@
 ---
 title: Aromatyczny gulasz wołowy
 categories: [lunch]
-imgs: [/aromatyczny-gulasz-wolowy-1.jpg]
+imgs: [/imgRecipes/aromatyczny-gulasz-wolowy-1.jpg]
 ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]
 time: 30 minut

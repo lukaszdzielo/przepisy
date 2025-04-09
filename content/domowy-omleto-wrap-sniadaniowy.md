@@ -1,7 +1,7 @@
 ---
 title: Domowy omleto-wrap śniadaniowy
 categories: [śniadanie]
-imgs: [/domowy-omleto-wrap-sniadaniowy-1.jpg, /domowy-omleto-wrap-sniadaniowy-2.jpg]
+imgs: [/imgRecipes/domowy-omleto-wrap-sniadaniowy-1.jpg, /imgRecipes/domowy-omleto-wrap-sniadaniowy-2.jpg]
 ebook: [Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa]
 author: [Michał Kot]
 time: 6 minut

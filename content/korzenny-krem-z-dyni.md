@@ -1,7 +1,7 @@
 ---
 title: Korzenny krem z dyni
 categories: [zupa]
-imgs: [/korzenny-krem-z-dyni-1.jpg]
+imgs: [/imgRecipes/korzenny-krem-z-dyni-1.jpg]
 ebook: [Rozgrzewające zupy wersja jesienno-zimowa]
 author: [Michał Kot]
 macros: {kcal: 250.2, b: 5.7, t: 15.5, w: 16.9}
