@@ -8,20 +8,17 @@ const { data: posts } = await useAsyncData('blog', () => queryCollection('recipe
 
 <template>
     <div class="container">
-        <div class="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6 gap-4 lg:gap-8">
-            <div v-for="recipe in posts" :key="recipe.id" class="">
-                <NuxtImg v-if="recipe.imgs?.length" :src="recipe.imgs[0]" width="300" height="200" loading="lazy"/>
-                <div v-else class="w-full aspect-[3/2] bg-slate-100"></div>
+        <div class="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6 gap-8">
+            <NuxtLink v-for="recipe in posts" :key="recipe.id" :to="recipe.path" class="rounded-lg">
+                <img v-if="recipe.imgs?.length" :src="recipe.imgs[0]" width="300" height="200" loading="lazy"
+                    class="aspect-[3/2] object-cover rounded-lg">
+                <div v-else class="w-full aspect-[3/2] bg-slate-100  rounded-lg"></div>
 
                 <div v-if="recipe.categories">{{ recipe.categories }}</div>
                 <div v-if="recipe.time">{{ recipe.time }}</div>
 
-                <div>
-                    <NuxtLink :to="recipe.path">{{ recipe.title }}</NuxtLink>
-                </div>
-
-
-            </div>
+                {{ recipe.title }}
+            </NuxtLink>
         </div>
     </div>
 </template>

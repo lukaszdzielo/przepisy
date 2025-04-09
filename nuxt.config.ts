@@ -7,12 +7,11 @@ export default defineNuxtConfig({
   },
   modules: [
     '@nuxt/content',
-    '@nuxt/image',
+    // '@nuxt/image',
     '@nuxtjs/tailwindcss'
   ],
-  ssr: true,
-  image: {
-    format: ['webp'],
-    provider: 'ipx',
-  },
+  // ssr: true,
+  // image: {
+  //   provider: 'ipxStatic',
+  // },
 })
