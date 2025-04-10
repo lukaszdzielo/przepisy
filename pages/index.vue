@@ -1,11 +1,14 @@
 <script setup lang="ts">
 
-const { data: recipes } = await useAsyncData('blog', () => queryCollection('recipes').all())
+const { data: recipes } = await useAsyncData('blog', () => queryCollection('recipes')
+    .select('id', 'imgs', 'path', 'title', 'categories', 'time', 'ebook').all())
 
 </script>
 
 <template>
     <div class="container">
+
+        {{ recipes }}
 
         <div class="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6 gap-8">
             <NuxtLink v-for="recipe in recipes" :key="recipe.id" :to="recipe.path" class="rounded-lg">
