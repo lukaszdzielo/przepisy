@@ -1,13 +1,3 @@
-<!-- <template>
-  <NuxtLayout>
-    <NuxtPage class="py-4"/>
-  </NuxtLayout>
-</template> -->
-
-
-
-
-
 <template>
   <div v-if="checkingAuth" class="loading-state">
     <p>Sprawdzanie statusu uwierzytelnienia...</p>
@@ -15,7 +5,9 @@
 
   <template v-else>
     <PassInput v-if="!isAuthenticated" @login-success="handleLoginSuccess" />
-    <ContentPage v-else @logout="handleLogout" />
+    <NuxtLayout v-else @logout="handleLogout">
+      <NuxtPage />
+    </NuxtLayout>
   </template>
 
 </template>
