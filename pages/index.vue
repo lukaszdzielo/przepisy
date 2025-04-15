@@ -51,8 +51,8 @@ const filteredRecipes = computed(() => {
                     class="aspect-[2/1] sm:aspect-[3/2] object-cover rounded-lg">
                 <div v-else class="w-full aspect-[3/2] bg-slate-100  rounded-lg"></div>
 
-                <div v-if="recipe.categories">{{ recipe.categories }}</div>
-                <div v-if="recipe.time">{{ recipe.time }}</div>
+                <!-- <div v-if="recipe.categories">{{ recipe.categories }}</div> -->
+                <!-- <div v-if="recipe.time">{{ recipe.time }}</div> -->
 
                 {{ recipe.title }}
             </NuxtLink>

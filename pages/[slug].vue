@@ -8,9 +8,9 @@ const { data: recipe } = await useAsyncData(`${slug}`, () => {
 </script>
 
 <template>
-    <div class="container xl:max-w-screen-lg print:px-12 print:text-xs">
+    <div class="container xl:max-w-screen-lg print:px-4 print:text-xs">
         <img v-if="recipe.imgs?.length" :src="recipe.imgs[0]" loading="lazy"
-            class="aspect-[3/2] object-cover rounded-2xl">
+            class="aspect-[3/2] print:aspect-[2/1] object-cover rounded-2xl">
 
         <ContentRenderer v-if="recipe" :value="recipe" class="grid grid-cols-6 gap-8" />
         <div v-else>Post not found</div>
