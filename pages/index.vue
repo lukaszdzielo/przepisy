@@ -22,15 +22,11 @@ const filteredRecipes = computed(() => {
 
     return recipes.value.filter(recipe => {
         let matchesEbook = true;
-        let matchesTags = true;
 
         if (currentFilter.value.ebook) {
             matchesEbook = recipe.ebook?.includes(currentFilter.value.ebook) || false;
         }
-        if (currentFilter.value.tags) {
-            matchesTags = recipe.tags?.includes(currentFilter.value.tags) || false;
-        }
-        return matchesEbook && matchesTags;
+        return matchesEbook;
     });
 });
 
@@ -39,7 +35,8 @@ const filteredRecipes = computed(() => {
 <template>
 
     <div class="container mb-8">
-        <select v-model="currentFilter.ebook" class="border">
+        <label for="eBook">eBook</label>
+        <select v-model="currentFilter.ebook" id="eBook" class="border">
             <option value="" selected>Wszystkie</option>
             <option v-for="ebook in ebooks" :value="ebook">{{ ebook }}</option>
         </select>
@@ -47,12 +44,14 @@ const filteredRecipes = computed(() => {
     <div class="container">
         <div class="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6 gap-8">
             <NuxtLink v-for="recipe in filteredRecipes" :key="recipe.id" :to="recipe.path" class="rounded-lg">
-                <img v-if="recipe.imgs?.length" :src="recipe.imgs[0]" loading="lazy"
+                <span class="relative block">
+                    <img v-if="recipe.imgs?.length" :src="recipe.imgs[0]" loading="lazy"
                     class="aspect-[2/1] sm:aspect-[3/2] object-cover rounded-lg">
-                <div v-else class="w-full aspect-[3/2] bg-slate-100  rounded-lg"></div>
+                    <div v-else class="w-full aspect-[3/2] bg-slate-100  rounded-lg"></div>
+                    <div v-if="recipe.time"  class="absolute top-0 end-0 ps-2 pb-1 rounded-bl-lg bg-white text-xs">{{ recipe.time }}</div>
+                </span>
 
                 <!-- <div v-if="recipe.categories">{{ recipe.categories }}</div> -->
-                <!-- <div v-if="recipe.time">{{ recipe.time }}</div> -->
 
                 {{ recipe.title }}
             </NuxtLink>
