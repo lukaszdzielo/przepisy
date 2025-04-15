@@ -8,7 +8,7 @@ let allTempEbooks: string[] = [];
 recipes.value?.forEach(recipe => {
     recipe.ebook && Array.isArray(recipe.ebook) && allTempEbooks.push(...recipe.ebook)
 });
- 
+
 const ebooks = [...new Set(allTempEbooks)];
 
 const currentFilter = ref<{
