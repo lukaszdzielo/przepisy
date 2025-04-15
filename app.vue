@@ -3,13 +3,12 @@
     <p>Sprawdzanie statusu uwierzytelnienia...</p>
   </div>
 
-  <template v-else>
+  <div v-else class="mt-8 mb-16">
     <PassInput v-if="!isAuthenticated" @login-success="handleLoginSuccess" />
     <NuxtLayout v-else @logout="handleLogout">
       <NuxtPage />
     </NuxtLayout>
-  </template>
-
+  </div>
 </template>
 
 <script setup>

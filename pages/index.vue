@@ -4,11 +4,8 @@ const { data: recipes } = await useAsyncData('blog', () => queryCollection('reci
     .select('id', 'imgs', 'path', 'title', 'categories', 'time', 'ebook').all())
 
 let allTempEbooks: string[] = [];
-
 recipes.value?.forEach(recipe => {
-    if (recipe.ebook && Array.isArray(recipe.ebook)) {
-        allTempEbooks.push(...recipe.ebook);
-    }
+    recipe.ebook && Array.isArray(recipe.ebook) && allTempEbooks.push(...recipe.ebook)
 });
 
 const ebooks = [...new Set(allTempEbooks)];
@@ -16,8 +13,8 @@ const ebooks = [...new Set(allTempEbooks)];
 </script>
 
 <template>
-    <div class="container">
-        <select name="" id="" class="border my-4 w-full">
+    <div class="container mb-8">
+        <select name="" id="" class="border">
             <option value="">Wszystkie</option>
             <option :value="ebook" v-for="ebook in ebooks">{{ ebook }}</option>
         </select>
