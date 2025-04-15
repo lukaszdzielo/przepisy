@@ -3,12 +3,12 @@ import { ref } from 'vue';
 
 const { data: recipes } = await useAsyncData('blog', () => queryCollection('recipes')
     .select('id', 'imgs', 'path', 'title', 'categories', 'time', 'ebook').all())
-
+ 
 let allTempEbooks: string[] = [];
 recipes.value?.forEach(recipe => {
     recipe.ebook && Array.isArray(recipe.ebook) && allTempEbooks.push(...recipe.ebook)
 });
-
+ 
 const ebooks = [...new Set(allTempEbooks)];
 
 const currentFilter = ref<{
