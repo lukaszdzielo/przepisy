@@ -1,7 +1,7 @@
 ---
 title: Krem z cukinii z halloumi i tostowanym pieczywem
 categories: [zupa]
-imgs: ["/imgRecipes/krem-z-cukinii-z-halloumi-i-tostowanym-pieczywem-1.jpg"]
+imgs: [./imgRecipes/krem-z-cukinii-z-halloumi-i-tostowanym-pieczywem-1.jpg]
 ebook: [Rozgrzewające zupy wersja jesienno-zimowa]
 author: [Michał Kot]
 macros: {kcal: 406.4, b: 19, t: 26.8, w: 18.3}

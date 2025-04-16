@@ -1,7 +1,7 @@
 ---
 title: Superszybki bowl witaminowy
 categories: [kolacja]
-imgs: ["/imgRecipes/superszybki-bowl-witaminowy-1.jpg"]
+imgs: [./imgRecipes/superszybki-bowl-witaminowy-1.jpg]
 ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]
 time: 10 minut

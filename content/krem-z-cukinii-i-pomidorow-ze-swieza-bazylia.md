@@ -1,7 +1,7 @@
 ---
 title: Krem z cukinii i pomidorów ze świeżą bazylią
 categories: [kolacja]
-imgs: ["/imgRecipes/krem-z-cukinii-i-pomidorow-ze-swieza-bazylia-1.jpg"]
+imgs: [./imgRecipes/krem-z-cukinii-i-pomidorow-ze-swieza-bazylia-1.jpg]
 ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 405.7, b: 13.5, t: 17.4, w: 41.1}

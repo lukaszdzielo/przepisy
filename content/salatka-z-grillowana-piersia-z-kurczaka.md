@@ -1,7 +1,7 @@
 ---
 title: Sałatka z grillowaną piersią z kurczaka
 categories: [kolacja]
-imgs: ["/imgRecipes/salatka-z-grillowana-piersia-z-kurczaka-2.jpg", "./salatka-z-grillowana-piersia-z-kurczaka-1.jpg"]
+imgs: [./imgRecipes/salatka-z-grillowana-piersia-z-kurczaka-2.jpg, ./salatka-z-grillowana-piersia-z-kurczaka-1.jpg]
 ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]
 time: 15 minut

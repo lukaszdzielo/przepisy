@@ -1,7 +1,7 @@
 ---
 title: Smoothie bowl z awokado, kiwi i orzechami
 categories: [śniadanie]
-imgs: ["/imgRecipes/smoothie-bowl-z-awokado-kiwi-i-orzechami-1.jpg"]
+imgs: [./imgRecipes/smoothie-bowl-z-awokado-kiwi-i-orzechami-1.jpg]
 ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 494.6, b: 8.8, t: 38, w: 26.5}

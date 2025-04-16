@@ -1,7 +1,7 @@
 ---
 title: Sernik cytrynowy z owocami
 categories: [deser]
-imgs: ["/imgRecipes/sernik-cytrynowy-z-owocami-1.jpg", "./sernik-cytrynowy-z-owocami-2.jpg"]
+imgs: [./imgRecipes/sernik-cytrynowy-z-owocami-1.jpg, ./sernik-cytrynowy-z-owocami-2.jpg]
 ebook: [Szybkie desery]
 author: [Michał Kot]
 macros: {kcal: 1287.6, b: 173.9, t: 20.4, w: 98.5}

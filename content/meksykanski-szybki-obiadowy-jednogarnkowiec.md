@@ -1,7 +1,7 @@
 ---
 title: Meksykański szybki obiadowy jednogarnkowiec
 categories: [obiad]
-imgs: ["/imgRecipes/meksykanski-szybki-obiadowy-jednogarnkowiec-2.jpg", "./meksykanski-szybki-obiadowy-jednogarnkowiec-1.jpg"]
+imgs: [./imgRecipes/meksykanski-szybki-obiadowy-jednogarnkowiec-2.jpg, ./meksykanski-szybki-obiadowy-jednogarnkowiec-1.jpg]
 ebook: [Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa]
 author: [Michał Kot]
 time: 15 minut

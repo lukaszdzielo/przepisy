@@ -1,7 +1,7 @@
 ---
 title: Krewetki w sosie pomidorowym
 categories: [kolacja]
-imgs: ["/imgRecipes/krewetki-w-sosie-pomidorowym-1.jpg"]
+imgs: [./imgRecipes/krewetki-w-sosie-pomidorowym-1.jpg]
 ebook: [Dieta specjalna]
 author: [Michał Kot]
 time: 20 minut

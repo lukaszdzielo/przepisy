@@ -1,7 +1,7 @@
 ---
 title: Komosa ryżowa z tuńczykiem i awokado
 categories: [obiad]
-imgs: ["/imgRecipes/komosa-ryzowa-z-tunczykiem-i-awokado-1.jpg"]
+imgs: [./imgRecipes/komosa-ryzowa-z-tunczykiem-i-awokado-1.jpg]
 ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 600.5, b: 41.1, t: 30.5, w: 36.7}

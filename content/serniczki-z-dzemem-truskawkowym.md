@@ -1,7 +1,7 @@
 ---
 title: Serniczki z dżemem truskawkowym
 categories: [kolacja]
-imgs: ["/imgRecipes/serniczki-z-dzemem-truskawkowym-1.jpg", "./serniczki-z-dzemem-truskawkowym-2.jpg"]
+imgs: [./imgRecipes/serniczki-z-dzemem-truskawkowym-1.jpg, ./serniczki-z-dzemem-truskawkowym-2.jpg]
 ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]
 time: 10 minut

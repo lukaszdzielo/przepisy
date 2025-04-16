@@ -1,7 +1,7 @@
 ---
 title: Turbo jesienno-zimowy twarożek
 categories: [śniadanie]
-imgs: ["/imgRecipes/turbo-jesienno-zimowy-twarozek-1.jpg", "./turbo-jesienno-zimowy-twarozek-2.jpg"]
+imgs: [./imgRecipes/turbo-jesienno-zimowy-twarozek-1.jpg, ./turbo-jesienno-zimowy-twarozek-2.jpg]
 ebook: [Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa]
 author: [Michał Kot]
 time: 7 minut

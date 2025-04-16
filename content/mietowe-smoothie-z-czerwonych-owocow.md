@@ -1,7 +1,7 @@
 ---
 title: Miętowe smoothie z czerwonych owoców
 categories: [drugie sniadanie]
-imgs: ["/imgRecipes/mietowe-smoothie-z-czerwonych-owocow-1.jpg"]
+imgs: [./imgRecipes/mietowe-smoothie-z-czerwonych-owocow-1.jpg]
 ebook: [Dieta PCOS & Insulinooporność]
 author: [Michał Kot]
 macros: {kcal: 273.4, b: 6.2, t: 19.1, w: 23}

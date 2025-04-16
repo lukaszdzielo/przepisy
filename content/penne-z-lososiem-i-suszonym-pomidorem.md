@@ -1,7 +1,7 @@
 ---
 title: Penne z łososiem i suszonym pomidorem
 categories: [lunch]
-imgs: ["/imgRecipes/penne-z-lososiem-i-suszonym-pomidorem-1.jpg", "./penne-z-lososiem-i-suszonym-pomidorem-2.jpg"]
+imgs: [./imgRecipes/penne-z-lososiem-i-suszonym-pomidorem-1.jpg, ./penne-z-lososiem-i-suszonym-pomidorem-2.jpg]
 ebook: [Dieta wysokobiałkowa 2]
 author: [Michał Kot]
 time: 25 minut

@@ -1,7 +1,7 @@
 ---
 title: Soczyste kotleciki z indyka z ziemniaczkami i salsą
 categories: [obiad]
-imgs: ["/imgRecipes/soczyste-kotleciki-z-indyka-z-ziemniaczkami-i-salsa-1.jpg"]
+imgs: [./imgRecipes/soczyste-kotleciki-z-indyka-z-ziemniaczkami-i-salsa-1.jpg]
 ebook: [Dieta ekspresowa i ekonomiczna wersja jesienno-zimowa]
 author: [Michał Kot]
 time: 15-20 minut
