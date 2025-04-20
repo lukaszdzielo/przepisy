@@ -27,7 +27,7 @@ const { data: recipe } = await useAsyncData(`${slug}`, () => {
         <div v-if="recipe.meta.macros" class="border-b border-emerald-200 my-3 print:my-2 pb-3 print:pb-2 print:border-gray-200">
             <ul class="flex flex-wrap gap-x-4 gap-y-2 list-none m-0 p-0 text-xs print:text-[10px]">
                 <li v-if="recipe.time"  class="inline-flex items-center gap-2">
-                    <Icon name="ic:baseline-access-alarm w-6 h-6 text-emerald-500 print:text-gray-500" /><strong>{{ recipe.time }}</strong>
+                    <Icon name="ic:baseline-access-alarm" class="w-6 h-6 text-emerald-500 print:text-gray-500" /><strong>{{ recipe.time }}</strong>
                 </li>
                 <li v-for="(value, key) in recipe.meta.macros" class="bg-emerald-100 print:bg-gray-100 rounded-full py-1 px-3">{{ key.toUpperCase() }}: <strong>{{ value }}</strong></li>
             </ul>
