@@ -12,7 +12,6 @@
   "dependencies": {
     "@nuxt/content": "^3.4.0",
     "@nuxt/icon": "^1.12.0",
-    "@nuxt/image": "^1.10.0",
     "@nuxtjs/tailwindcss": "^6.13.2",
     "nuxt": "^3.16.2",
     "vue": "^3.5.13",
@@ -20,6 +19,5 @@
   },
   "devDependencies": {
     "@iconify-json/ic": "^1.2.2",
-    "ipx": "^3.0.3"
   }
 }
