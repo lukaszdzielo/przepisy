@@ -6,7 +6,11 @@ export default defineNuxtConfig({
   app: {
     baseURL: '/przepisy/',
   },
-  modules: ['@nuxt/content', '@nuxtjs/tailwindcss', '@nuxt/icon'],
+  modules: [
+    '@nuxt/content',
+    '@nuxtjs/tailwindcss',
+    '@nuxt/icon'
+  ],
   content: {
     renderer: {
       anchorLinks: { h2: false, h3: false, h4: false }
