@@ -1,11 +1,20 @@
 ---
 title: Antyoksydacyjna malinowa micha z czerwonymi dodatkami
-categories: [kolacja, sałatka]
-imgs: [./imgRecipes/antyoksydacyjna-malinowa-micha-z-czerwonymi-dodatkami-1.jpg]
-ebook: [Dieta specjalna]
-author: [Michał Kot]
+categories:
+  - kolacja
+  - sałatka
+imgs:
+  - ./imgRecipes/antyoksydacyjna-malinowa-micha-z-czerwonymi-dodatkami-1.jpg
+ebook:
+  - Dieta specjalna
+author:
+  - Michał Kot
 time: 10 minut
-macros: {kcal: 502.5, b: 13.9, t: 30.0, w: 35.5}
+macros:
+  kcal: 502.5
+  b: 13.9
+  t: 30
+  w: 35.5
 ---
 
 ::recipe-ingredients
@@ -19,6 +28,7 @@ macros: {kcal: 502.5, b: 13.9, t: 30.0, w: 35.5}
 - Garść młodych liści buraka
 
 # Składniki na dressing
+
 - Maliny 50g
 - Olej z nasion wiesiołka 2 łyżki (20g)
 - Miód pszczeli 1 łyżeczka (12g)
