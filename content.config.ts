@@ -6,7 +6,6 @@ export default defineContentConfig({
             type: 'page',
             source: '*.md',
             schema: z.object({
-                img: z.string(),
                 imgs: z.array(z.string()),
                 time: z.string(),
                 tags: z.array(z.string()),

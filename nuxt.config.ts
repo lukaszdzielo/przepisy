@@ -10,7 +10,6 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxtjs/tailwindcss',
     '@nuxt/icon',
-    '@nuxt/image'
   ],
   content: {
     renderer: {

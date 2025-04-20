@@ -2,7 +2,7 @@
 import { ref } from 'vue';
 
 const { data: recipes } = await useAsyncData('blog', () => queryCollection('recipes')
-    .select('id', 'img', 'imgs', 'path', 'title', 'categories', 'time', 'ebook').all())
+    .select('id', 'imgs', 'path', 'title', 'categories', 'time', 'ebook').all())
  
 let allTempEbooks: string[] = [];
 recipes.value?.forEach(recipe => {
@@ -45,7 +45,6 @@ const filteredRecipes = computed(() => {
         <div class="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6 gap-8">
             <NuxtLink v-for="recipe in filteredRecipes" :key="recipe.id" :to="recipe.path" class="rounded-lg">
                 <span class="relative block">
-                    <NuxtImg v-if="recipe.img" :src="recipe.img" width="100" height="50" loading="lazy"/>
                     <img v-if="recipe.imgs?.length" :src="recipe.imgs[0]" loading="lazy"
                     class="aspect-[2/1] sm:aspect-[3/2] object-cover rounded-lg">
                     <div v-else class="w-full aspect-[3/2] bg-slate-100  rounded-lg"></div>

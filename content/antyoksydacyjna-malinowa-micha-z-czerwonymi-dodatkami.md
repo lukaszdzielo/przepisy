@@ -3,7 +3,6 @@ title: Antyoksydacyjna malinowa micha z czerwonymi dodatkami
 categories:
   - kolacja
   - sałatka
-img: /imgRecipes/antyoksydacyjna-malinowa-micha-z-czerwonymi-dodatkami-1.jpg
 imgs:
   - ./imgRecipes/antyoksydacyjna-malinowa-micha-z-czerwonymi-dodatkami-1.jpg
 ebook:
