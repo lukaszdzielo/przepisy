@@ -11,5 +11,11 @@ export default defineNuxtConfig({
     renderer: {
       anchorLinks: { h2: false, h3: false, h4: false }
     }
+  },
+  icon: {
+    clientBundle: {
+      scan: true,
+      sizeLimitKb: 256
+    }
   }
 })
