@@ -27,7 +27,7 @@ macros:
 - Mix sałat 2 garści (50g)
 - Garść młodych liści buraka
 
-# Składniki na dressing
+## Składniki na dressing
 
 - Maliny 50g
 - Olej z nasion wiesiołka 2 łyżki (20g)

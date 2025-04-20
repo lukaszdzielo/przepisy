@@ -35,8 +35,8 @@ const filteredRecipes = computed(() => {
 <template>
 
     <div class="container mb-8">
-        <label for="eBook">eBook</label>
-        <select v-model="currentFilter.ebook" id="eBook" class="border">
+        <label for="eBook" class="block">eBook</label>
+        <select v-model="currentFilter.ebook" id="eBook" class="border w-full">
             <option value="" selected>Wszystkie</option>
             <option v-for="ebook in ebooks" :value="ebook">{{ ebook }}</option>
         </select>
@@ -50,9 +50,6 @@ const filteredRecipes = computed(() => {
                     <div v-else class="w-full aspect-[3/2] bg-slate-100  rounded-lg"></div>
                     <div v-if="recipe.time"  class="absolute top-0 end-0 ps-2 pb-1 rounded-bl-lg bg-white text-xs">{{ recipe.time }}</div>
                 </span>
-
-                <!-- <div v-if="recipe.categories">{{ recipe.categories }}</div> -->
-
                 {{ recipe.title }}
             </NuxtLink>
         </div>

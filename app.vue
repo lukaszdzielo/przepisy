@@ -3,7 +3,7 @@
     <p>Sprawdzanie statusu uwierzytelnienia...</p>
   </div>
 
-  <div v-else class="mt-8 mb-32 print:mt-6 print:mb-2">
+  <div v-else class="">
     <PassInput v-if="!isAuthenticated" @login-success="handleLoginSuccess" />
     <NuxtLayout v-else @logout="handleLogout">
       <NuxtPage />
@@ -14,7 +14,6 @@
 <script setup>
 import { ref, onMounted } from 'vue';
 import PassInput from './components/PassInput.vue';
-import ContentPage from './components/ContentPage.vue';
 
 // --- Konfiguracja (potrzebna w App.vue do początkowej weryfikacji) ---
 const correctPassword = import.meta.env.VITE_CORRECT_PASSWORD || 'fallback_password';
@@ -114,3 +113,10 @@ onMounted(() => {
 });
 
 </script>
+
+<style>
+html {
+  @apply text-gray-700;
+  overflow-y: scroll;
+}
+</style>

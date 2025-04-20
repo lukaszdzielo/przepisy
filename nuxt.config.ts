@@ -9,4 +9,9 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxtjs/tailwindcss'
   ],
+  content: {
+    renderer: {
+      anchorLinks: { h2: false, h3: false, h4: false }
+    }
+  }
 })

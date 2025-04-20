@@ -1,6 +1,6 @@
 <template>
-    <div class="col-span-full lg:col-span-2 print:col-span-2">
-        <h1>Skladniki</h1>
+    <div class="col-span-full lg:col-span-3 print:col-span-3">
+        <h1>Składniki</h1>
         <slot />
     </div>
 </template>
