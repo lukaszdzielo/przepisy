@@ -36,7 +36,7 @@ const checkingAuth = ref(true); // Czy trwa początkowe sprawdzanie?
 const clearBlockStatusInStorage = () => {
   localStorage.removeItem(blockStatusKey);
   localStorage.removeItem(attemptsKey);
-  console.log("(App.vue) Wyczyścił stan blokady w LocalStorage.");
+  // console.log("(App.vue) Wyczyścił stan blokady w LocalStorage.");
 };
 
 // Ustawia stan jako zalogowany, zapisuje status w LS i czyści blokadę
@@ -44,7 +44,7 @@ const setAuthenticated = () => {
   isAuthenticated.value = true;
   localStorage.setItem(authStatusKey, 'true'); // Zapisz status 'true'
   clearBlockStatusInStorage(); // Udane logowanie czyści blokadę
-  console.log("(App.vue) Użytkownik uwierzytelniony.");
+  // console.log("(App.vue) Użytkownik uwierzytelniony.");
 };
 
 // Ustawia stan jako wylogowany i czyści status w LS
@@ -52,7 +52,7 @@ const setLoggedOut = () => {
   isAuthenticated.value = false;
   localStorage.removeItem(authStatusKey); // Usuń status logowania
   // Nie czyścimy blokady przy wylogowaniu
-  console.log("(App.vue) Użytkownik wylogowany.");
+  // console.log("(App.vue) Użytkownik wylogowany.");
 };
 
 
@@ -60,19 +60,19 @@ const setLoggedOut = () => {
 
 // Wywoływane, gdy PassInput.vue wyemituje 'login-success'
 const handleLoginSuccess = () => {
-  console.log("(App.vue) Otrzymano login-success z PassInput.");
+  // console.log("(App.vue) Otrzymano login-success z PassInput.");
   setAuthenticated();
 };
 
 // Wywoływane, gdy ContentPage.vue wyemituje 'logout'
 const handleLogout = () => {
-  console.log("(App.vue) Otrzymano logout z ContentPage.");
+  // console.log("(App.vue) Otrzymano logout z ContentPage.");
   setLoggedOut();
 };
 
 // --- Logika Uruchamiana Przy Starcie Aplikacji ---
 onMounted(() => {
-  console.log("(App.vue) Rozpoczynanie sprawdzania onMounted...");
+  // console.log("(App.vue) Rozpoczynanie sprawdzania onMounted...");
   let authenticatedInitially = false;
 
   // 1. Sprawdź parametr URL
@@ -80,35 +80,35 @@ onMounted(() => {
   const passwordFromUrl = urlParams.get(urlParamName);
 
   if (passwordFromUrl) {
-    console.log("(App.vue) Znaleziono parametr URL.");
+    // console.log("(App.vue) Znaleziono parametr URL.");
     const newUrl = window.location.pathname + window.location.hash;
     window.history.replaceState({}, document.title, newUrl); // Usuń parametr
 
     if (passwordFromUrl === correctPassword) {
-      console.log("(App.vue) Hasło z URL poprawne.");
+      // console.log("(App.vue) Hasło z URL poprawne.");
       setAuthenticated(); // Uwierzytelnij (to też zapisze status w LS i wyczyści blokadę)
       authenticatedInitially = true;
     } else {
-      console.warn("(App.vue) Hasło z URL niepoprawne.");
+      // console.warn("(App.vue) Hasło z URL niepoprawne.");
       // Nie robimy nic więcej, nie pokazujemy błędu tutaj, PassInput to obsłuży
     }
   }
 
   // 2. Sprawdź LocalStorage dla statusu logowania (jeśli nie przez URL)
   if (!authenticatedInitially) {
-    console.log("(App.vue) Sprawdzanie LocalStorage dla statusu logowania...");
+    // console.log("(App.vue) Sprawdzanie LocalStorage dla statusu logowania...");
     const storedAuth = localStorage.getItem(authStatusKey);
     if (storedAuth === 'true') {
-      console.log("(App.vue) Znaleziono poprawny status logowania w LocalStorage.");
+      // console.log("(App.vue) Znaleziono poprawny status logowania w LocalStorage.");
       setAuthenticated(); // Uwierzytelnij (to też wyczyści blokadę)
       authenticatedInitially = true;
     } else {
-      console.log("(App.vue) Brak poprawnego statusu logowania w LocalStorage.");
+      // console.log("(App.vue) Brak poprawnego statusu logowania w LocalStorage.");
     }
   }
 
   // 3. Zakończ sprawdzanie
-  console.log("(App.vue) Zakończono sprawdzanie onMounted.");
+  // console.log("(App.vue) Zakończono sprawdzanie onMounted.");
   checkingAuth.value = false;
 });
 
